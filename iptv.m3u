@@ -1,4 +1,558 @@
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+#EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml"
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="广东",广东卫视
+http://iptv.cqshushu.com/gdtv.php?id=gdws&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png" group-title="广东",广东珠江
+http://iptv.cqshushu.com/gdtv.php?id=gdzj&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="http://iptv.cqshushu.com/tv-logo/广东新闻.png" group-title="广东",广东新闻
+http://iptv.cqshushu.com/gdtv.php?id=gdxw&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B9%BF%E4%B8%9C%E6%B0%91%E7%94%9F.png" group-title="广东",广东民生
+http://iptv.cqshushu.com/gdtv.php?id=gdms&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="广东",广东体育
+http://iptv.cqshushu.com/gdtv.php?id=gdty&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86.png" group-title="广东",大湾区卫视
+http://iptv.cqshushu.com/gdtv.php?id=dwqws&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="大湾区卫视(海外)" tvg-name="大湾区卫视(海外)" tvg-logo="http://iptv.cqshushu.com/tv-logo/大湾区卫视.png" group-title="广东",大湾区卫视(海外)
+http://iptv.cqshushu.com/gdtv.php?id=dwqws_hw&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B9%BF%E4%B8%9C%E5%BD%B1%E8%A7%86.png" group-title="广东",广东影视
+http://iptv.cqshushu.com/gdtv.php?id=gdys&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="广东4K" tvg-name="广东4K" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B9%BF%E4%B8%9C4K.png" group-title="广东",广东4K
+http://iptv.cqshushu.com/gdtv.php?id=gd4k&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B9%BF%E4%B8%9C%E5%B0%91%E5%84%BF.png" group-title="广东",广东少儿
+http://iptv.cqshushu.com/gdtv.php?id=gdse&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="南方购物" tvg-name="南方购物" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%8D%97%E6%96%B9%E8%B4%AD%E7%89%A9.png" group-title="广东",南方购物
+http://iptv.cqshushu.com/gdtv.php?id=nfgw&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B2%AD%E5%8D%97%E6%88%8F%E6%9B%B2.png" group-title="广东",岭南戏曲
+http://iptv.cqshushu.com/gdtv.php?id=lnxq&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="广东移动" tvg-name="广东移动" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8.png" group-title="广东",广东移动
+http://iptv.cqshushu.com/gdtv.php?id=gdyd&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="广东",嘉佳卡通
+http://iptv.cqshushu.com/gdtv.php?id=jjkt&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="广东纪录片" tvg-name="广东纪录片" tvg-logo="http://iptv.cqshushu.com/tv-logo/广东纪录片.png" group-title="广东",广东纪录片
+http://iptv.cqshushu.com/gdtv.php?id=jlp&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="GRTN健康" tvg-name="GRTN健康" tvg-logo="http://iptv.cqshushu.com/tv-logo/GRTN健康.png" group-title="广东",GRTN健康
+http://iptv.cqshushu.com/gdtv.php?id=grtnjk&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="广东经典剧" tvg-name="广东经典剧" tvg-logo="http://iptv.cqshushu.com/tv-logo/广东经典剧.png" group-title="广东",广东经典剧
+http://iptv.cqshushu.com/gdtv.php?id=gdjdj&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="GRTN文化" tvg-name="GRTN文化" tvg-logo="http://iptv.cqshushu.com/tv-logo/GRTN文化.png" group-title="广东",GRTN文化
+http://iptv.cqshushu.com/gdtv.php?id=grtnwh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="GRTN生活" tvg-name="GRTN生活" tvg-logo="http://iptv.cqshushu.com/tv-logo/GRTN生活.png" group-title="广东",GRTN生活
+http://iptv.cqshushu.com/gdtv.php?id=grtnsh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B9%BF%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="广东",广州综合
+http://iptv.cqshushu.com/gddf.php?id=gzzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B9%BF%E5%B7%9E%E6%96%B0%E9%97%BB.png" group-title="广东",广州新闻
+http://iptv.cqshushu.com/gddf.php?id=gzxw&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B9%BF%E5%B7%9E%E6%B3%95%E6%B2%BB.png" group-title="广东",广州法治
+http://iptv.cqshushu.com/gddf.php?id=gzfz&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B9%BF%E5%B7%9E%E5%BD%B1%E8%A7%86.png" group-title="广东",广州影视
+http://iptv.cqshushu.com/gddf.php?id=gzys&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="4K南国都市" tvg-name="4K南国都市" tvg-logo="http://iptv.cqshushu.com/tv-logo/4K%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%82.png" group-title="广东",4K南国都市
+http://iptv.cqshushu.com/gddf.php?id=ngds&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="番禺综合" tvg-name="番禺综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E7%95%AA%E7%A6%BA%E7%BB%BC%E5%90%88.png" group-title="广东",番禺综合
+http://iptv.cqshushu.com/gddf.php?id=pyzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K.png" group-title="广东",深圳卫视4K
+http://iptv.cqshushu.com/gddf.php?id=szws4k&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="广东",深圳卫视
+http://iptv.cqshushu.com/gddf.php?id=szws&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B7%B1%E5%9C%B3%E9%83%BD%E5%B8%82.png" group-title="广东",深圳都市
+http://iptv.cqshushu.com/gddf.php?id=szds&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B7%B1%E5%9C%B3%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="广东",深圳电视剧
+http://iptv.cqshushu.com/gddf.php?id=szdsj&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="深圳财经" tvg-name="深圳财经" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B7%B1%E5%9C%B3%E8%B4%A2%E7%BB%8F.png" group-title="广东",深圳财经
+http://iptv.cqshushu.com/gddf.php?id=szcj&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="深圳少儿" tvg-name="深圳少儿" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B7%B1%E5%9C%B3%E5%B0%91%E5%84%BF.png" group-title="广东",深圳少儿
+http://iptv.cqshushu.com/gddf.php?id=szse&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="深圳移动" tvg-name="深圳移动" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B7%B1%E5%9C%B3%E7%A7%BB%E5%8A%A8.png" group-title="广东",深圳移动
+http://iptv.cqshushu.com/gddf.php?id=szyd&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="深圳宜和购物" tvg-name="深圳宜和购物" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B7%B1%E5%9C%B3%E5%AE%9C%E5%92%8C%E8%B4%AD%E7%89%A9.png" group-title="广东",深圳宜和购物
+http://iptv.cqshushu.com/gddf.php?id=szyhgw&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="深圳国际" tvg-name="深圳国际" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B7%B1%E5%9C%B3%E5%9B%BD%E9%99%85.png" group-title="广东",深圳国际
+http://iptv.cqshushu.com/gddf.php?id=szgj&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="东莞综合" tvg-name="东莞综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E4%B8%9C%E8%8E%9E%E7%BB%BC%E5%90%88.png" group-title="广东",东莞综合
+http://iptv.cqshushu.com/gddf.php?id=dgzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="东莞生活" tvg-name="东莞生活" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E4%B8%9C%E8%8E%9E%E7%94%9F%E6%B4%BB.png" group-title="广东",东莞生活
+http://iptv.cqshushu.com/gddf.php?id=dgsh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="江门综合" tvg-name="江门综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/江门综合.png" group-title="广东",江门综合
+http://iptv.cqshushu.com/gddf.php?id=jmzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="江门侨乡" tvg-name="江门侨乡" tvg-logo="http://iptv.cqshushu.com/tv-logo/江门侨乡生活.png" group-title="广东",江门侨乡
+http://iptv.cqshushu.com/gddf.php?id=jmqx&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="中山综合" tvg-name="中山综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E4%B8%AD%E5%B1%B1%E7%BB%BC%E5%90%88.png" group-title="广东",中山综合
+http://iptv.cqshushu.com/gddf.php?id=zszh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="云浮综合" tvg-name="云浮综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E4%BA%91%E6%B5%AE%E7%BB%BC%E5%90%88.png" group-title="广东",云浮综合
+http://iptv.cqshushu.com/gddf.php?id=yfzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="云浮文旅" tvg-name="云浮文旅" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E4%BA%91%E6%B5%AE%E6%96%87%E6%97%85.png" group-title="广东",云浮文旅
+http://iptv.cqshushu.com/gddf.php?id=yfwl&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="湛江综合" tvg-name="湛江综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B9%9B%E6%B1%9F%E7%BB%BC%E5%90%88.png" group-title="广东",湛江综合
+http://iptv.cqshushu.com/gddf.php?id=zjzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="湛江公共" tvg-name="湛江公共" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B9%9B%E6%B1%9F%E5%85%AC%E5%85%B1.png" group-title="广东",湛江公共
+http://iptv.cqshushu.com/gddf.php?id=zjgg&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="丰顺综合" tvg-name="丰顺综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E4%B8%B0%E9%A1%BA%E7%BB%BC%E5%90%88.png" group-title="广东",丰顺综合
+http://iptv.cqshushu.com/gddf.php?id=fszh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="五华综合" tvg-name="五华综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E4%BA%94%E5%8D%8E%E7%BB%BC%E5%90%88.png" group-title="广东",五华综合
+http://iptv.cqshushu.com/gddf.php?id=whzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B1%95%E5%A4%B4%E7%BB%BC%E5%90%88.png" group-title="广东",汕头综合
+http://iptv.cqshushu.com/gddf.php?id=stzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="汕头生活" tvg-name="汕头生活" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B1%95%E5%A4%B4%E7%94%9F%E6%B4%BB.png" group-title="广东",汕头生活
+http://iptv.cqshushu.com/gddf.php?id=stsh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="汕尾综合" tvg-name="汕尾综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B1%95%E5%B0%BE%E7%BB%BC%E5%90%88.png" group-title="广东",汕尾综合
+http://iptv.cqshushu.com/gddf.php?id=swzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="汕尾生活" tvg-name="汕尾生活" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B1%95%E5%B0%BE%E7%94%9F%E6%B4%BB.png" group-title="广东",汕尾生活
+http://iptv.cqshushu.com/gddf.php?id=swsh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%BD%AE%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="广东",潮州综合
+http://iptv.cqshushu.com/gddf.php?id=czzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%BD%AE%E5%B7%9E%E6%B0%91%E7%94%9F.png" group-title="广东",潮州民生
+http://iptv.cqshushu.com/gddf.php?id=czms&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%8F%AD%E9%98%B3%E7%BB%BC%E5%90%88.png" group-title="广东",揭阳综合
+http://iptv.cqshushu.com/gddf.php?id=jytv1&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%8F%AD%E9%98%B3%E7%94%9F%E6%B4%BB.png" group-title="广东",揭阳生活
+http://iptv.cqshushu.com/gddf.php?id=jytv2&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="河源综合" tvg-name="河源综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B2%B3%E6%BA%90%E7%BB%BC%E5%90%88.png" group-title="广东",河源综合
+http://iptv.cqshushu.com/gddf.php?id=hyzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="河源生活" tvg-name="河源生活" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B2%B3%E6%BA%90%E7%94%9F%E6%B4%BB.png" group-title="广东",河源生活
+http://iptv.cqshushu.com/gddf.php?id=hysh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="韶关综合" tvg-name="韶关综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%9F%B6%E5%85%B3%E7%BB%BC%E5%90%88.png" group-title="广东",韶关综合
+http://iptv.cqshushu.com/gddf.php?id=sgzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="阳江1" tvg-name="阳江1" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%98%B3%E6%B1%9F1.png" group-title="广东",阳江1
+http://iptv.cqshushu.com/gddf.php?id=yjtv1&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="阳江2" tvg-name="阳江2" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%98%B3%E6%B1%9F2.png" group-title="广东",阳江2
+http://iptv.cqshushu.com/gddf.php?id=yjtv2&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="清远综合" tvg-name="清远综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B8%85%E8%BF%9C%E7%BB%BC%E5%90%88.png" group-title="广东",清远综合
+http://iptv.cqshushu.com/gddf.php?id=qyzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="肇庆综合" tvg-name="肇庆综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E8%82%87%E5%BA%86%E7%BB%BC%E5%90%88.png" group-title="广东",肇庆综合
+http://iptv.cqshushu.com/gddf.php?id=zqzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="肇庆生活" tvg-name="肇庆生活" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E8%82%87%E5%BA%86%E7%94%9F%E6%B4%BB.png" group-title="广东",肇庆生活
+http://iptv.cqshushu.com/gddf.php?id=zqsh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="怀集综合" tvg-name="怀集综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%80%80%E9%9B%86%E7%BB%BC%E5%90%88.png" group-title="广东",怀集综合
+http://iptv.cqshushu.com/gddf.php?id=hjzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="其他",翡翠台
+http://iptv.cqshushu.com/x4.php?id=fct&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png" group-title="其他",无线新闻台
+http://iptv.cqshushu.com/x4.php?id=wxxwt&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="http://iptv.cqshushu.com/tv-logo/J2.png" group-title="其他",J2
+http://iptv.cqshushu.com/x4.php?id=tvb&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="其他",明珠台
+http://iptv.cqshushu.com/x4.php?id=mzt&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="HOY资讯" tvg-name="HOY资讯" tvg-logo="http://iptv.cqshushu.com/tv-logo/HOY%E8%B5%84%E8%AE%AF.png" group-title="其他",HOY资讯
+http://iptv.cqshushu.com/gddf.php?id=hoy78&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="RHK31" tvg-name="RHK31" tvg-logo="http://iptv.cqshushu.com/tv-logo/RHK31.png" group-title="其他",RHK31
+http://iptv.cqshushu.com/x4.php?id=rthk31&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="东森LIVE" tvg-name="东森LIVE" tvg-logo="http://iptv.cqshushu.com/tv-logo/RHK32.png" group-title="其他",东森LIVE
+http://iptv.cqshushu.com/x4.php?id=rthk32&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="http://iptv.cqshushu.com/tv-logo/VIU1.png" group-title="其他",VIUTV6
+http://iptv.cqshushu.com/x4.php?id=viutv1&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="VIUTV1" tvg-name="VIUTV1" tvg-logo="http://iptv.cqshushu.com/tv-logo/VIU6.png" group-title="其他",VIUTV1
+http://iptv.cqshushu.com/x4.php?id=viutv6_1&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="其他",凤凰中文
+http://iptv.cqshushu.com/gddf.php?id=fhzw&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="其他",凤凰资讯
+http://iptv.cqshushu.com/gddf.php?id=fhzx&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png" group-title="其他",凤凰香港
+http://iptv.cqshushu.com/gddf.php?id=fhhk&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="http://iptv.cqshushu.com/tv-logo/纬来体育.png" group-title="其他",纬来体育
+http://iptv.cqshushu.com/wltv.php?id=wlty&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/CCTV1%E7%BB%BC%E5%90%88.png" group-title="gdy",CCTV1综合
+http://iptv.cqshushu.com/gdy.php?id=cctv1zh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="http://iptv.cqshushu.com/tv-logo/CCTV%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png" group-title="gdy",CCTV第一剧场
+http://iptv.cqshushu.com/gdy.php?id=cctvdjyc&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E4%B8%AD%E5%8D%8E%E7%BE%8E%E9%A3%9F.png" group-title="gdy",中华美食
+http://iptv.cqshushu.com/gdy.php?id=zhms&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="昌平综合" tvg-name="昌平综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%98%8C%E5%B9%B3%E7%BB%BC%E5%90%88.png" group-title="gdy",昌平综合
+http://iptv.cqshushu.com/gdy.php?id=cpzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="大庆综合" tvg-name="大庆综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%A4%A7%E5%BA%86%E7%BB%BC%E5%90%88.png" group-title="gdy",大庆综合
+http://iptv.cqshushu.com/gdy.php?id=dqzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="大庆教育" tvg-name="大庆教育" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%A4%A7%E5%BA%86%E6%95%99%E8%82%B2.png" group-title="gdy",大庆教育
+http://iptv.cqshushu.com/gdy.php?id=dqjy&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="牡丹江宁安综合" tvg-name="牡丹江宁安综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E7%89%A1%E4%B8%B9%E6%B1%9F%E5%AE%81%E5%AE%89%E7%BB%BC%E5%90%88.png" group-title="gdy",牡丹江宁安综合
+http://iptv.cqshushu.com/gdy.php?id=mdjanzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="铁岭综合" tvg-name="铁岭综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%93%81%E5%B2%AD%E7%BB%BC%E5%90%88.png" group-title="gdy",铁岭综合
+http://iptv.cqshushu.com/gdy.php?id=tlzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="大连金普1综合" tvg-name="大连金普1综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%A4%A7%E8%BF%9E%E9%87%91%E6%99%AE1%E7%BB%BC%E5%90%88.png" group-title="gdy",大连金普1综合
+http://iptv.cqshushu.com/gdy.php?id=dljpzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="大连金普2生活服务" tvg-name="大连金普2生活服务" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%A4%A7%E8%BF%9E%E9%87%91%E6%99%AE2%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1.png" group-title="gdy",大连金普2生活服务
+http://iptv.cqshushu.com/gdy.php?id=dljpshfw&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="保定综合" tvg-name="保定综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E4%BF%9D%E5%AE%9A%E7%BB%BC%E5%90%88.png" group-title="gdy",保定综合
+http://iptv.cqshushu.com/gdy.php?id=bdzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="保定公共" tvg-name="保定公共" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E4%BF%9D%E5%AE%9A%E5%85%AC%E5%85%B1.png" group-title="gdy",保定公共
+http://iptv.cqshushu.com/gdy.php?id=bdgg&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="保定生活健康" tvg-name="保定生活健康" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E4%BF%9D%E5%AE%9A%E7%94%9F%E6%B4%BB%E5%81%A5%E5%BA%B7.png" group-title="gdy",保定生活健康
+http://iptv.cqshushu.com/gdy.php?id=bdshjk&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="衡水冀州综合" tvg-name="衡水冀州综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E8%A1%A1%E6%B0%B4%E5%86%80%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="gdy",衡水冀州综合
+http://iptv.cqshushu.com/gdy.php?id=hsjzzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="衡水武强综合" tvg-name="衡水武强综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E8%A1%A1%E6%B0%B4%E6%AD%A6%E5%BC%BA%E7%BB%BC%E5%90%88.png" group-title="gdy",衡水武强综合
+http://iptv.cqshushu.com/gdy.php?id=hswqzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="太原清徐电视台" tvg-name="太原清徐电视台" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%A4%AA%E5%8E%9F%E6%B8%85%E5%BE%90%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="gdy",太原清徐电视台
+http://iptv.cqshushu.com/gdy.php?id=tyqxtv&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="临汾侯马综合" tvg-name="临汾侯马综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E4%B8%B4%E6%B1%BE%E4%BE%AF%E9%A9%AC%E7%BB%BC%E5%90%88.png" group-title="gdy",临汾侯马综合
+http://iptv.cqshushu.com/gdy.php?id=lfhmzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="临汾曲沃综合" tvg-name="临汾曲沃综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E4%B8%B4%E6%B1%BE%E6%9B%B2%E6%B2%83%E7%BB%BC%E5%90%88.png" group-title="gdy",临汾曲沃综合
+http://iptv.cqshushu.com/gdy.php?id=lfqwzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="吕梁一套" tvg-name="吕梁一套" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%90%95%E6%A2%81%E4%B8%80%E5%A5%97.png" group-title="gdy",吕梁一套
+http://iptv.cqshushu.com/gdy.php?id=llyt&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="吕梁二套" tvg-name="吕梁二套" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%90%95%E6%A2%81%E4%BA%8C%E5%A5%97.png" group-title="gdy",吕梁二套
+http://iptv.cqshushu.com/gdy.php?id=llet&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="吕梁交城电视" tvg-name="吕梁交城电视" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%90%95%E6%A2%81%E4%BA%A4%E5%9F%8E%E7%94%B5%E8%A7%86.png" group-title="gdy",吕梁交城电视
+http://iptv.cqshushu.com/gdy.php?id=lljctv&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="长治潞州融媒" tvg-name="长治潞州融媒" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%95%BF%E6%B2%BB%E6%BD%9E%E5%B7%9E%E8%9E%8D%E5%AA%92.png" group-title="gdy",长治潞州融媒
+http://iptv.cqshushu.com/gdy.php?id=czlzrm&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="运城芮城综合" tvg-name="运城芮城综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E8%BF%90%E5%9F%8E%E8%8A%AE%E5%9F%8E%E7%BB%BC%E5%90%88.png" group-title="gdy",运城芮城综合
+http://iptv.cqshushu.com/gdy.php?id=ycrczh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="淄博综合" tvg-name="淄博综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B7%84%E5%8D%9A%E7%BB%BC%E5%90%88.png" group-title="gdy",淄博综合
+http://iptv.cqshushu.com/gdy.php?id=zbzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="济宁嘉祥新闻" tvg-name="济宁嘉祥新闻" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B5%8E%E5%AE%81%E5%98%89%E7%A5%A5%E6%96%B0%E9%97%BB.png" group-title="gdy",济宁嘉祥新闻
+http://iptv.cqshushu.com/gdy.php?id=jnjxxw&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="济宁嘉祥生活" tvg-name="济宁嘉祥生活" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B5%8E%E5%AE%81%E5%98%89%E7%A5%A5%E7%94%9F%E6%B4%BB.png" group-title="gdy",济宁嘉祥生活
+http://iptv.cqshushu.com/gdy.php?id=jnjxsh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="菏泽一套" tvg-name="菏泽一套" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E8%8F%8F%E6%B3%BD%E4%B8%80%E5%A5%97.png" group-title="gdy",菏泽一套
+http://iptv.cqshushu.com/gdy.php?id=hzyt&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="菏泽二套" tvg-name="菏泽二套" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E8%8F%8F%E6%B3%BD%E4%BA%8C%E5%A5%97.png" group-title="gdy",菏泽二套
+http://iptv.cqshushu.com/gdy.php?id=hzet&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="菏泽三套" tvg-name="菏泽三套" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E8%8F%8F%E6%B3%BD%E4%B8%89%E5%A5%97.png" group-title="gdy",菏泽三套
+http://iptv.cqshushu.com/gdy.php?id=hzst&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="宣城宁国综合" tvg-name="宣城宁国综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%AE%A3%E5%9F%8E%E5%AE%81%E5%9B%BD%E7%BB%BC%E5%90%88.png" group-title="gdy",宣城宁国综合
+http://iptv.cqshushu.com/gdy.php?id=xcngzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="安庆宿松综合" tvg-name="安庆宿松综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%AE%89%E5%BA%86%E5%AE%BF%E6%9D%BE%E7%BB%BC%E5%90%88.png" group-title="gdy",安庆宿松综合
+http://iptv.cqshushu.com/gdy.php?id=aqsszh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="安庆宿松戏曲文艺" tvg-name="安庆宿松戏曲文艺" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%AE%89%E5%BA%86%E5%AE%BF%E6%9D%BE%E6%88%8F%E6%9B%B2%E6%96%87%E8%89%BA.png" group-title="gdy",安庆宿松戏曲文艺
+http://iptv.cqshushu.com/gdy.php?id=aqssxqwy&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="安庆桐城综合" tvg-name="安庆桐城综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%AE%89%E5%BA%86%E6%A1%90%E5%9F%8E%E7%BB%BC%E5%90%88.png" group-title="gdy",安庆桐城综合
+http://iptv.cqshushu.com/gdy.php?id=aqtczh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="宿州砀山综合" tvg-name="宿州砀山综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%AE%BF%E5%B7%9E%E7%A0%80%E5%B1%B1%E7%BB%BC%E5%90%88.png" group-title="gdy",宿州砀山综合
+http://iptv.cqshushu.com/gdy.php?id=szdszh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="阜阳综合" tvg-name="阜阳综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%98%9C%E9%98%B3%E7%BB%BC%E5%90%88.png" group-title="gdy",阜阳综合
+http://iptv.cqshushu.com/gdy.php?id=fyzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="阜阳教育" tvg-name="阜阳教育" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%98%9C%E9%98%B3%E6%95%99%E8%82%B2.png" group-title="gdy",阜阳教育
+http://iptv.cqshushu.com/gdy.php?id=fyjy&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="阜阳生活" tvg-name="阜阳生活" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%98%9C%E9%98%B3%E7%94%9F%E6%B4%BB.png" group-title="gdy",阜阳生活
+http://iptv.cqshushu.com/gdy.php?id=fysh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="阜阳都市文艺" tvg-name="阜阳都市文艺" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%98%9C%E9%98%B3%E9%83%BD%E5%B8%82%E6%96%87%E8%89%BA.png" group-title="gdy",阜阳都市文艺
+http://iptv.cqshushu.com/gdy.php?id=fydswy&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="合肥肥东综合" tvg-name="合肥肥东综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%90%88%E8%82%A5%E8%82%A5%E4%B8%9C%E7%BB%BC%E5%90%88.png" group-title="gdy",合肥肥东综合
+http://iptv.cqshushu.com/gdy.php?id=hffdzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="南阳综合" tvg-name="南阳综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%8D%97%E9%98%B3%E7%BB%BC%E5%90%88.png" group-title="gdy",南阳综合
+http://iptv.cqshushu.com/gdy.php?id=nyzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="南阳公共" tvg-name="南阳公共" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%8D%97%E9%98%B3%E5%85%AC%E5%85%B1.png" group-title="gdy",南阳公共
+http://iptv.cqshushu.com/gdy.php?id=nygg&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="南阳科教" tvg-name="南阳科教" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%8D%97%E9%98%B3%E7%A7%91%E6%95%99.png" group-title="gdy",南阳科教
+http://iptv.cqshushu.com/gdy.php?id=nykj&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="濮阳综合" tvg-name="濮阳综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%BF%AE%E9%98%B3%E7%BB%BC%E5%90%88.png" group-title="gdy",濮阳综合
+http://iptv.cqshushu.com/gdy.php?id=pyzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="濮阳公共" tvg-name="濮阳公共" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%BF%AE%E9%98%B3%E5%85%AC%E5%85%B1.png" group-title="gdy",濮阳公共
+http://iptv.cqshushu.com/gdy.php?id=pygg&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="濮阳县电视台" tvg-name="濮阳县电视台" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%BF%AE%E9%98%B3%E5%8E%BF%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="gdy",濮阳县电视台
+http://iptv.cqshushu.com/gdy.php?id=pyxtv&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="新乡综合" tvg-name="新乡综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%96%B0%E4%B9%A1%E7%BB%BC%E5%90%88.png" group-title="gdy",新乡综合
+http://iptv.cqshushu.com/gdy.php?id=xxzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="新乡公共" tvg-name="新乡公共" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%96%B0%E4%B9%A1%E5%85%AC%E5%85%B1.png" group-title="gdy",新乡公共
+http://iptv.cqshushu.com/gdy.php?id=xxgg&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="鹤壁综合" tvg-name="鹤壁综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%B9%A4%E5%A3%81%E7%BB%BC%E5%90%88.png" group-title="gdy",鹤壁综合
+http://iptv.cqshushu.com/gdy.php?id=hbzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="平顶山综合" tvg-name="平顶山综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B9%B3%E9%A1%B6%E5%B1%B1%E7%BB%BC%E5%90%88.png" group-title="gdy",平顶山综合
+http://iptv.cqshushu.com/gdy.php?id=pdszh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="襄阳综合" tvg-name="襄阳综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E8%A5%84%E9%98%B3%E7%BB%BC%E5%90%88.png" group-title="gdy",襄阳综合
+http://iptv.cqshushu.com/gdy.php?id=xyzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="襄阳公共" tvg-name="襄阳公共" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E8%A5%84%E9%98%B3%E5%85%AC%E5%85%B1.png" group-title="gdy",襄阳公共
+http://iptv.cqshushu.com/gdy.php?id=xygg&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="襄阳经济生活" tvg-name="襄阳经济生活" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E8%A5%84%E9%98%B3%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB.png" group-title="gdy",襄阳经济生活
+http://iptv.cqshushu.com/gdy.php?id=xyjjsh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="随州综合" tvg-name="随州综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%9A%8F%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="gdy",随州综合
+http://iptv.cqshushu.com/gdy.php?id=szzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="随州农村" tvg-name="随州农村" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%9A%8F%E5%B7%9E%E5%86%9C%E6%9D%91.png" group-title="gdy",随州农村
+http://iptv.cqshushu.com/gdy.php?id=sznc&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="仙桃综合" tvg-name="仙桃综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E4%BB%99%E6%A1%83%E7%BB%BC%E5%90%88.png" group-title="gdy",仙桃综合
+http://iptv.cqshushu.com/gdy.php?id=xtzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="武汉蔡甸综合" tvg-name="武汉蔡甸综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%AD%A6%E6%B1%89%E8%94%A1%E7%94%B8%E7%BB%BC%E5%90%88.png" group-title="gdy",武汉蔡甸综合
+http://iptv.cqshushu.com/gdy.php?id=whcdzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="武汉新洲综合" tvg-name="武汉新洲综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%AD%A6%E6%B1%89%E6%96%B0%E6%B4%B2%E7%BB%BC%E5%90%88.png" group-title="gdy",武汉新洲综合
+http://iptv.cqshushu.com/gdy.php?id=whxzzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="黄石综合" tvg-name="黄石综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%BB%84%E7%9F%B3%E7%BB%BC%E5%90%88.png" group-title="gdy",黄石综合
+http://iptv.cqshushu.com/gdy.php?id=hszh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="黄石都市" tvg-name="黄石都市" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%BB%84%E7%9F%B3%E9%83%BD%E5%B8%82.png" group-title="gdy",黄石都市
+http://iptv.cqshushu.com/gdy.php?id=hsds&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="黄石公共" tvg-name="黄石公共" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%BB%84%E7%9F%B3%E5%85%AC%E5%85%B1.png" group-title="gdy",黄石公共
+http://iptv.cqshushu.com/gdy.php?id=hsgg&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="直播黄石" tvg-name="直播黄石" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E7%9B%B4%E6%92%AD%E9%BB%84%E7%9F%B3.png" group-title="gdy",直播黄石
+http://iptv.cqshushu.com/gdy.php?id=zbhs&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="恩施综合" tvg-name="恩施综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%81%A9%E6%96%BD%E7%BB%BC%E5%90%88.png" group-title="gdy",恩施综合
+http://iptv.cqshushu.com/gdy.php?id=eszh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="恩施文旅" tvg-name="恩施文旅" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%81%A9%E6%96%BD%E6%96%87%E6%97%85.png" group-title="gdy",恩施文旅
+http://iptv.cqshushu.com/gdy.php?id=eswl&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="巴东综合" tvg-name="巴东综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B7%B4%E4%B8%9C%E7%BB%BC%E5%90%88.png" group-title="gdy",巴东综合
+http://iptv.cqshushu.com/gdy.php?id=bdzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="咸丰综合" tvg-name="咸丰综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%92%B8%E4%B8%B0%E7%BB%BC%E5%90%88.png" group-title="gdy",咸丰综合
+http://iptv.cqshushu.com/gdy.php?id=xfzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="荆门综合" tvg-name="荆门综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E8%8D%86%E9%97%A8%E7%BB%BC%E5%90%88.png" group-title="gdy",荆门综合
+http://iptv.cqshushu.com/gdy.php?id=jmzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="gdy",湖南卫视
+http://iptv.cqshushu.com/gdy.php?id=hnws&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="长沙综合" tvg-name="长沙综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%95%BF%E6%B2%99%E7%BB%BC%E5%90%88.png" group-title="gdy",长沙综合
+http://iptv.cqshushu.com/gdy.php?id=cszh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="长沙政法" tvg-name="长沙政法" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%95%BF%E6%B2%99%E6%94%BF%E6%B3%95.png" group-title="gdy",长沙政法
+http://iptv.cqshushu.com/gdy.php?id=cszf&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="长沙浏阳电视台" tvg-name="长沙浏阳电视台" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%95%BF%E6%B2%99%E6%B5%8F%E9%98%B3%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="gdy",长沙浏阳电视台
+http://iptv.cqshushu.com/gdy.php?id=cslytv&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="岳阳综合" tvg-name="岳阳综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B2%B3%E9%98%B3%E7%BB%BC%E5%90%88.png" group-title="gdy",岳阳综合
+http://iptv.cqshushu.com/gdy.php?id=yyzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="岳阳文旅都市" tvg-name="岳阳文旅都市" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B2%B3%E9%98%B3%E6%96%87%E6%97%85%E9%83%BD%E5%B8%82.png" group-title="gdy",岳阳文旅都市
+http://iptv.cqshushu.com/gdy.php?id=yywl&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="株洲综合" tvg-name="株洲综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%A0%AA%E6%B4%B2%E7%BB%BC%E5%90%88.png" group-title="gdy",株洲综合
+http://iptv.cqshushu.com/gdy.php?id=zzzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="益阳南县新闻" tvg-name="益阳南县新闻" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E7%9B%8A%E9%98%B3%E5%8D%97%E5%8E%BF%E6%96%B0%E9%97%BB.png" group-title="gdy",益阳南县新闻
+http://iptv.cqshushu.com/gdy.php?id=yynxxw&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="湘极综合" tvg-name="湘极综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B9%98%E6%9E%81%E7%BB%BC%E5%90%88.png" group-title="gdy",湘极综合
+http://iptv.cqshushu.com/gdy.php?id=xxzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="湘极公共" tvg-name="湘极公共" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B9%98%E6%9E%81%E5%85%AC%E5%85%B1.png" group-title="gdy",湘极公共
+http://iptv.cqshushu.com/gdy.php?id=xxgg&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="郴州宜章综合" tvg-name="郴州宜章综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%83%B4%E5%B7%9E%E5%AE%9C%E7%AB%A0%E7%BB%BC%E5%90%88.png" group-title="gdy",郴州宜章综合
+http://iptv.cqshushu.com/gdy.php?id=czyzzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="鹰潭综合" tvg-name="鹰潭综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%B9%B0%E6%BD%AD%E7%BB%BC%E5%90%88.png" group-title="gdy",鹰潭综合
+http://iptv.cqshushu.com/gdy.php?id=ytzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="南京江宁综合" tvg-name="南京江宁综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%8D%97%E4%BA%AC%E6%B1%9F%E5%AE%81%E7%BB%BC%E5%90%88.png" group-title="gdy",南京江宁综合
+http://iptv.cqshushu.com/gdy.php?id=njjnzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="连云港灌云综合" tvg-name="连云港灌云综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E8%BF%9E%E4%BA%91%E6%B8%AF%E7%81%8C%E4%BA%91%E7%BB%BC%E5%90%88.png" group-title="gdy",连云港灌云综合
+http://iptv.cqshushu.com/gdy.php?id=lyggyzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="淮安极合" tvg-name="淮安极合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B7%AE%E5%AE%89%E6%9E%81%E5%90%88.png" group-title="gdy",淮安极合
+http://iptv.cqshushu.com/gdy.php?id=hazh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="无线淮安" tvg-name="无线淮安" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%97%A0%E7%BA%BF%E6%B7%AE%E5%AE%89.png" group-title="gdy",无线淮安
+http://iptv.cqshushu.com/gdy.php?id=wxha&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="徐州新沂电视1" tvg-name="徐州新沂电视1" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%BE%90%E5%B7%9E%E6%96%B0%E6%B2%82%E7%94%B5%E8%A7%861.png" group-title="gdy",徐州新沂电视1
+http://iptv.cqshushu.com/gdy.php?id=xzxy1&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="徐州新沂电视2" tvg-name="徐州新沂电视2" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%BE%90%E5%B7%9E%E6%96%B0%E6%B2%82%E7%94%B5%E8%A7%862.png" group-title="gdy",徐州新沂电视2
+http://iptv.cqshushu.com/gdy.php?id=xzxy2&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="徐州新沂老电影" tvg-name="徐州新沂老电影" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%BE%90%E5%B7%9E%E6%96%B0%E6%B2%82%E8%80%81%E7%94%B5%E5%BD%B1.png" group-title="gdy",徐州新沂老电影
+http://iptv.cqshushu.com/gdy.php?id=x极xyldy&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="杭州临安综合" tvg-name="杭州临安综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%9D%AD%E5%B7%9E%E4%B8%B4%E5%AE%89%E7%BB%BC%E5%90%88.png" group-title="gdy",杭州临安综合
+http://iptv.cqshushu.com/gdy.php?id=hzlazh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="杭州富阳综合" tvg-name="杭州富阳综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%9D%AD%E5%B7%9E%E5%AF%8C%E9%98%B3%E7%BB%BC%E5%90%88.png" group-title="gdy",杭州富阳综合
+http://iptv.cqshushu.com/gdy.php?id=hzfyzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="杭州临平新闻" tvg-name="杭州临平新闻" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%9D%AD%E5%B7%9E%E4%B8%B4%E5%B9%B3%E6%96%B0%E9%97%BB.png" group-title="gdy",杭州临平新闻
+http://iptv.cqshushu.com/gdy.php?id=hzlpxw&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="杭州建德综合" tvg-name="杭州建德综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%9D%AD%E5%B7%9E%E5%BB%BA%E5%BE%B7%E7%BB%BC%E5%90%88.png" group-title="gdy",杭州建德综合
+http://iptv.cqshushu.com/gdy.php?id=hzjdzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="杭州桐庐综合" tvg-name="杭州桐庐综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%9D%AD%E5%B7%9E%E6%A1%90%E5%BA%90%E7%BB%BC%E5%90%88.png" group-title="gdy",杭州桐庐综合
+http://iptv.cqshushu.com/gdy.php?id=hztlzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="温州乐清新闻" tvg-name="温州乐清新闻" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B8%A9%E5%B7%9E%E4%B9%90%E6%B8%85%E6%96%B0%E9%97%BB.png" group-title="gdy",温州乐清新闻
+http://iptv.cqshushu.com/gdy.php?id=wzlqx极&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="温州乐清综合" tvg-name="温州乐清综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B8%A9%E5%B7%9E%E4%B9%90%E6%B8%85%E7%BB%BC%E5%90%88.png" group-title="gdy",温州乐清综合
+http://iptv.cqshushu.com/gdy.php?id=wzlqzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="温州永嘉综合" tvg-name="温州永嘉综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B8%A9%E5%B7%9E%E6%B0%B8%E5%98%89%E7%BB%BC%E5%90%88.png" group-title="gdy",温州永嘉综合
+http://iptv.cqshushu.com/gdy.php?id=wzyjzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="台州温岭综合" tvg-name="台州温岭综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%8F%B0%E5%B7%9E%E6%B8%A9%E5%B2%AD%E7%BB%BC%E5%90%88.png" group-title="gdy",台州温岭综合
+http://iptv.cqshushu.com/gdy.php?id=tzwlzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="台州温岭民生休闲" tvg-name="台州温岭民生休闲" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%8F%B0%E5%B7%9E%E6%B8%A9%E5%B2%AD%E6%B0%91%E7%94%9F%E4%BC%91%E9%97%B2.png" group-title="gdy",台州温岭民生休闲
+http://iptv.cqshushu.com/gdy.php?id=tzwlmsxx&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="台州仙居综合" tvg-name="台州仙居综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%8F%B0%E5%B7%9E%E4%BB%99%E5%B1%85%E7%BB%BC%E5%90%88.png" group-title="gdy",台州仙居综合
+http://iptv.cqshushu.com/gdy.php?id=tzxjzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="绍兴新昌新闻" tvg-name="绍兴新昌新闻" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E7%BB%8D%E5%85%B4%E6%96%B0%E6%98%8C%E6%96%B0%E9%97%BB.png" group-title="gdy",绍兴新昌新闻
+http://iptv.cqshushu.com/gdy.php?id=sxxcxw&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="绍兴新昌生活" tvg-name="绍兴新昌生活" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E7%BB%8D%E5%85%B4%E6%96%B0%E6%98%8C%E7%94%9F%E6%B4%BB.png" group-title="gdy",绍兴新昌生活
+http://iptv.cqshushu.com/gdy.php?id=sxxcsh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="宁波宁海综合" tvg-name="宁波宁海综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%AE%81%E6%B3%A2%E5%AE%81%E6%B5%B7%E7%BB%BC%E5%90%88.png" group-title="gdy",宁波宁海综合
+http://iptv.cqshushu.com/gdy.php?id=nbnbzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="宁波奉化综合" tvg-name="宁波奉化综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%AE%81%E6%B3%A2%E5%A5%89%E5%8C%96%E7%BB%BC%E5%90%88.png" group-title="gdy",宁波奉化综合
+http://iptv.cqshushu.com/gdy.php?id=nbfhzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="宁波慈溪综合" tvg-name="宁波慈溪综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%AE%81%E6%B3%A2%E6%85%88%E6%BA%AA%E7%BB%BC%E5%90%88.png" group-title="gdy",宁波慈溪综合
+http://iptv.cqshushu.com/gdy.php?id=nbcxzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="湖州安吉综合" tvg-name="湖州安吉综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B9%96%E5%B7%9E%E5%AE%89%E5%90%89%E7%BB%BC%E5%90%88.png" group-title="gdy",湖州安吉综合
+http://iptv.cqshushu.com/gdy.php?id=hzajzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="湖州安吉生活影视" tvg-name="湖州安吉生活影视" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B9%96%E5%B7%9E%E5%AE%89%E5%90%89%E7%94%9F%E6%B4%BB%E5%BD%B1%E8%A7%86.png" group-title="gdy",湖州安吉生活影视
+http://iptv.cqshushu.com/gdy.php?id=hzajshys&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="金华综合" tvg-name="金华综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%87%91%E5%8D%8E%E7%BB%BC%E5%90%88.png" group-title="gdy",金华综合
+http://iptv.cqshushu.com/gdy.php?id=jhzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="金华义乌综合" tvg-name="金华义乌综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%87%91%E5%8D%8E%E4%B9%89%E4%B9%8C%E7%BB%BC%E5%90%88.png" group-title="gdy",金华义乌综合
+http://iptv.cqshushu.com/gdy.php?id=jhywzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="金华义乌商贸" tvg-name="金华义乌商贸" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%87%91%E5%8D%8E%E4%B9%89%E4%B9%8C%E5%95%86%E8%B4%B8.png" group-title="gdy",金华义乌商贸
+http://iptv.cqshushu.com/gdy.php?id=jhysw&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="金华义乌公共文艺" tvg-name="金华义乌公共文艺" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%87%91%E5%8D%8E%E4%B9%89%E4%B9%8C%E5%85%AC%E5%85%B1%E6%96%87%E8%89%BA.png" group-title="gdy",金华义乌公共文艺
+http://iptv.cqshushu.com/gdy.php?id=jhywggwy&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="金华兰溪综合" tvg-name="金华兰溪综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%87%91%E5%8D%8E%E5%85%B0%E6%BA%AA%E7%BB%BC%E5%90%88.png" group-title="gdy",金华兰溪综合
+http://iptv.cqshushu.com/gdy.php?id=jhlxzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="嘉兴桐乡综合" tvg-name="嘉兴桐乡综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%98%89%E5%85%B4%E6%A1%90%E4%B9%A1%E7%BB%BC%E5%90%88.png" group-title="gdy",嘉兴桐乡综合
+http://iptv.cqshushu.com/gdy.php?id=jxtxzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="福州福清综合" tvg-name="福州福清综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E7%A6%8F%E5%B7%9E%E7%A6%8F%E6%B8%85%E7%BB%BC%E5%90%88.png" group-title="gdy",福州福清综合
+http://iptv.cqshushu.com/gdy.php?id=fzfqzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="福州闽侯综合" tvg-name="福州闽侯综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E7%A6%8F%E5%B7%9E%E9%97%BD%E4%BE%AF%E7%BB%BC%E5%90%88.png" group-title="gdy",福州闽侯综合
+http://iptv.cqshushu.com/gdy.php?id=fzm极zh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="平潭综合" tvg-name="平潭综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B9%B3%E6%BD%AD%E7%BB%BC%E5%90%88.png" group-title="gdy",平潭综合
+http://iptv.cqshushu.com/gdy.php?id=ptzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="平潭旅游文化" tvg-name="平潭旅游文化" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B9%B3%E6%BD%AD%E6%97%85%E6%B8%B8%E6%96%87%E5%8C%96.png" group-title="gdy",平潭旅游文化
+http://iptv.cqshushu.com/gdy.php?id=ptlywh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="三明永安综合" tvg-name="三明永安综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E4%B8%89%E6%98%8E%E6%B0%B8%E5%AE%89%E7%BB%BC%E5%90%88.png" group-title="gdy",三明永安综合
+http://iptv.cqshushu.com/gdy.php?id=smyazh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="三明沙县综合" tvg-name="三明沙县综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E4%B8%89%E6%98%8E%E6%B2%99%E5%8E%BF%E7%BB%BC%E5%90%88.png" group-title="gdy",三明沙县综合
+http://iptv.cqshushu.com/gdy.php?id=smsxzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="三明尤溪综合" tvg-name="三明尤溪综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E4%B8%89%E6%98%8E%E5%B0%A4%E6%BA%AA%E7%BB%BC%E5%90%88.png" group-title="gdy",三明尤溪综合
+http://iptv.cqshushu.com/gdy.php?id=smyxzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="三明尤溪旅游宣传" tvg-name="三明尤溪旅游宣传" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E4%B8%89%E6%98%8E%E5%B0%A4%E6%BA%AA%E6%97%85%E6%B8%B8%E5%AE%A3%E4%BC%A0.png" group-title="gdy",三明尤溪旅游宣传
+http://iptv.cqshushu.com/gdy.php?id=smyxlyxc&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="泉州泉港一套" tvg-name="泉州泉港一套" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B3%89%E5%B7%9E%E6%B3%89%E6%B8%AF%E4%B8%80%E5%A5%97.png" group-title="gdy",泉州泉港一套
+http://iptv.cqshushu.com/gdy.php?id=qzqgyt&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="泉州德化综合" tvg-name="泉州德化综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B3%89%E5%B7%9E%E5%BE%B7%E5%8C%96%E7%BB%BC%E5%90%88.png" group-title="gdy",泉州德化综合
+http://iptv.cqshushu.com/gdy.php?id=qzdhzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="泉州永春综合" tvg-name="泉州永春综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B3%89%E5%B7%9E%E6%B0%B8%E6%98%A5%E7%BB%BC%E5%90%88.png" group-title="gdy",泉州永春综合
+http://iptv.cqshushu.com/gdy.php?id=qzyczh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="泉州永春公共" tvg-name="泉州永春公共" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B3%89%E5%B7%9E%E6%B0%B8%E6%98%A5%E5%85%AC%E5%85%B1.png" group-title="gdy",泉州永春公共
+http://iptv.cqshushu.com/gdy.php?id=qzycgg&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="漳州一套" tvg-name="漳州一套" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%BC%B3%E5%B7%9E%E4%B8%80%E5%A5%97.png" group-title="gdy",漳州一套
+http://iptv.cqshushu.com/gdy.php?id=zzyt&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="漳州漳浦综合" tvg-name="漳州漳浦综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%BC%B3%E5%B7%9E%E6%BC%B3%E6%B5%A6%E7%BB%BC%E5%90%88.png" group-title="gdy",漳州漳浦综合
+http://iptv.cqshushu.com/gdy.php?id=zzzpzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="厦门集美综合" tvg-name="厦门集美综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%8E%A6%E9%97%A8%E9%9B%86%E7%BE%8E%E7%BB%BC%E5%90%88.png" group-title="gdy",厦门集美综合
+http://iptv.cqshushu.com/gdy.php?id=xmjmtv&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="茂名信宜综合" tvg-name="茂名信宜综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E8%8C%82%E5%90%8D%E4%BF%A1%E5%AE%9C%E7%BB%BC%E5%90%88.png" group-title="gdy",茂名信宜综合
+http://iptv.cqshushu.com/gdy.php?id=mmxyzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="江门开平综合" tvg-name="江门开平综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B1%9F%E9%97%A8%E5%BC%80%E5%B9%B3%E7%BB%BC%E5%90%88.png" group-title="gdy",江门开平综合
+http://iptv.cqshushu.com/gdy.php?id=jmkpzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="江门开平生活" tvg-name="江门开平生活" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B1%9F%E9%97%A8%E5%BC%80%E5%B9%B3%E7%94%9F%E6%B4%BB.png" group-title="gdy",江门开平生活
+http://iptv.cqshushu.com/gdy.php?id=jmkpsh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="广州增城台" tvg-name="广州增城台" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B9%BF%E5%B7%9E%E5%A2%9E%E5%9F%8E%E5%8F%B0.png" group-title="gdy",广州增城台
+http://iptv.cqshushu.com/gdy.php?id=gzztv&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="柳州综合" tvg-name="柳州综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%9F%B3%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="gdy",柳州综合
+http://iptv.cqshushu.com/gdy.php?id=lzzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="柳州科教" tvg-name="柳州科教" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%9F%B3%E5%B7%9E%E7%A7%91%E6%95%99.png" group-title="gdy",柳州科教
+http://iptv.cqshushu.com/gdy.php?id=lzkj&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="玉林综合" tvg-name="玉林综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E7%8E%89%E6%9E%97%E7%BB%BC%E5%90%88.png" group-title="gdy",玉林综合
+http://iptv.cqshushu.com/gdy.php?id=ylzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="玉林公共" tvg-name="玉林公共" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E7%8E%89%E6%9E%97%E5%85%AC%E5%85%B1.png" group-title="gdy",玉林公共
+http://iptv.cqshushu.com/gdy.php?id=ylgg&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="贵阳综合" tvg-name="贵阳综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E8%B4%B5%E9%98%B3%E7%BB%BC%E5%90%88.png" group-title="gdy",贵阳综合
+http://iptv.cqshushu.com/gdy.php?id=gyzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="铜仁印江电视台" tvg-name="铜仁印江电视台" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%93%9C%E4%BB%81%E5%8D%B0%E6%B1%9F%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="gdy",铜仁印江电视台
+http://iptv.cqshushu.com/gdy.php?id=tryjt极&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="巴中南江电视台" tvg-name="巴中南江电视台" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%B7%B4%E4%B8%AD%E5%8D%97%E6%B1%9F%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="gdy",巴中南江电视台
+http://iptv.cqshushu.com/gdy.php?id=bznjtv&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="德阳绵竹电视" tvg-name="德阳绵竹电视" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%BE%B7%E9%98%B3%E7%BB%B5%E7%AB%B9%E7%94%B5%E8%A7%86.png" group-title="gdy",德阳绵竹电视
+http://iptv.cqshushu.com/gdy.php?id=dymztv&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="德阳绵竹电视2" tvg-name="德阳绵竹电视2" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E5%BE%B7%E9%98%B3%E7%BB%B5%E7%AB%B9%E7%94%B5%E8%A7%862.png" group-title="gdy",德阳绵竹电视2
+http://iptv.cqshushu.com/gdy.php?id=dymztv2&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="遂宁射洪综合" tvg-name="遂宁射洪综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%81%82%E5%AE%81%E5%B0%84%E6%B4%AA%E7%BB%BC%E5%90%88.png" group-title="gdy",遂宁射洪综合
+http://iptv.cqshushu.com/gdy.php?id=snshzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="阿克苏汉语综合" tvg-name="阿克苏汉语综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%98%BF%E5%85%8B%E8%8B%8F%E6%B1%89%E8%AF%AD%E7%BB%BC%E5%90%88.png" group-title="gdy",阿克苏汉语综合
+http://iptv.cqshushu.com/gdy.php?id=akshyzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="阿克苏维语综合" tvg-name="阿克苏维语综合" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%98%BF%E5%85%8B%E8%8B%8F%E7%BB%B4%E8%AF%AD%E7%BB%BC%E5%90%88.png" group-title="gdy",阿克苏维语综合
+http://iptv.cqshushu.com/gdy.php?id=aksvyzh&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="阿克苏党教" tvg-name="阿克苏党教" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%98%BF%E5%85%8B%E8%8B%8F%E5%85%9A%E6%95%99.png" group-title="gdy",阿克苏党教
+http://iptv.cqshushu.com/gdy.php?id=aksdj&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="阿勒泰布尔津哈语" tvg-name="阿勒泰布尔津哈语" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E9%98%BF%E5%8B%92%E6%B3%B0%E5%B8%83%E5%B0%94%E6%B4%A5%E5%93%88%E8%AF%AD.png" group-title="gdy",阿勒泰布尔津哈语
+http://iptv.cqshushu.com/gdy.php?id=altbeyhy&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 tvg-id="海南儋州台" tvg-name="海南儋州台" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B5%B7%E5%8D%97%E5%84%8B%E5%B7%9E%E5%8F%B0.png" group-title="gdy",海南儋州台
+http://iptv.cqshushu.com/gdy.php?id=hndztv&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧洲北部篮球联赛]布里斯托战斗机 VS 杜布拉瓦03:45[线路Q1]
+https://hello.ooo0ooo.top/live/3959699.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [NCAA]南佛罗里达大学 VS 圣约瑟大学04:00[线路Q1]
+https://hello.ooo0ooo.top/live/3949189.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [NCAA]东卡罗莱纳大学 VS 北卡罗来纳农工大学05:00[线路Q1]
+https://hello.ooo0ooo.top/live/3951271.m3u8
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-12 08:00 [NBA常规赛]猛龙 VS 凯尔特人
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-12 08:00 [NBA常规赛]尼克斯 VS 骑士
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-12 08:00 [NBA常规赛]步行者 VS 奇才
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-12 09:00 [NBA常规赛]鹈鹕 VS 篮网
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-12 09:00 [NBA常规赛]雄鹿 VS 湖人
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-12 09:00 [NBA常规赛]灰熊 VS 掘金
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-12 09:00 [NBA常规赛]公牛 VS 马刺
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-12 10:00 [NBA常规赛]爵士 VS 魔术
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-12 10:30 [NBA常规赛]火箭 VS 勇士
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-12 11:00 [NBA常规赛]开拓者 VS 雷霆
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-13 08:00 [NBA常规赛]76人 VS 猛龙
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-13 08:00 [NBA常规赛]奇才 VS 活塞
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-13 09:00 [NBA常规赛]森林狼 VS 独行侠
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-13 10:00 [NBA常规赛]太阳 VS 黄蜂
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-14 08:00 [NBANBA杯小组赛]魔术 VS 雄鹿
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-14 08:00 [NBANBA杯小组赛]步行者 VS 尼克斯
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-14 09:00 [NBANBA杯小组赛]热火 VS 骑士
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-14 09:00 [NBANBA杯小组赛]鹈鹕 VS 灰熊
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-14 09:00 [NBANBA杯小组赛]公牛 VS 老鹰
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-14 09:30 [NBANBA杯小组赛]火箭 VS 爵士
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-14 10:30 [NBANBA杯小组赛]马刺 VS 勇士
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-14 11:00 [NBANBA杯小组赛]国王 VS 开拓者
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-14 11:30 [NBANBA杯小组赛]快船 VS 雷霆
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-15 08:00 [NBA常规赛]鹈鹕 VS 掘金
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-15 08:30 [NBA常规赛]骑士 VS 独行侠
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-15 09:00 [NBA常规赛]热火 VS 活塞
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-15 09:00 [NBA常规赛]森林狼 VS 公牛
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-15 09:00 [NBA常规赛]灰熊 VS 篮网
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-16 02:00 [NBA常规赛]76人 VS 步行者
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-16 05:00 [NBA常规赛]太阳 VS 湖人
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-16 05:30 [NBA常规赛]快船 VS 黄蜂
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-16 06:00 [NBA常规赛]爵士 VS 马刺
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-16 07:00 [NBA常规赛]猛龙 VS 尼克斯
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-16 07:00 [NBA常规赛]凯尔特人 VS 独行侠
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-21 03:30 [德甲第10轮]拜仁 VS 科隆
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-21 03:45 [法甲联赛 第11轮]特鲁瓦 VS 勒阿弗尔
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-21 04:00 [西甲第13轮]毕尔巴鄂竞技 VS 西班牙人
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-21 20:30 [英超第11轮]曼城 VS 富勒姆
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-21 21:00 [西甲第13轮]阿拉维斯 VS 拉科鲁尼亚
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-21 22:00 [意甲第12轮]科莫 VS 卡利亚里
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-21 22:00 [意甲第12轮]拉齐奥 VS 莱切
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-21 22:30 [德甲第10轮]勒沃库森 VS 帕德博恩
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-21 22:30 [德甲第10轮]法兰克福 VS 霍芬海姆
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-21 22:30 [德甲第10轮]柏林联合 VS RB莱比锡
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-21 22:30 [德甲第10轮]门兴 VS 多特蒙德
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-21 22:30 [德甲第10轮]埃弗斯堡 VS 弗赖堡
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-21 23:00 [英超第11轮]热刺 VS 伊普斯维奇
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-21 23:00 [英超第11轮]考文垂 VS 水晶宫
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-21 23:00 [英超第11轮]阿斯顿维拉 VS 桑德兰
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-21 23:00 [英超第11轮]伯恩茅斯 VS 诺丁汉森林
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-21 23:00 [英超第11轮]切尔西 VS 利兹联
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-21 23:15 [西甲第13轮]巴列卡诺 VS 瓦伦西亚
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-22 00:15 [法甲联赛 第11轮]尼斯 VS 巴黎圣日耳曼
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-22 01:00 [意甲第12轮]帕尔马 VS 罗马
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="公众号" tvg-logo="http://iptv.cqshushu.com/wx.png", 关注【医工学习日志】获取更多
+http://iptv.cqshushu.com/wx.mp4
+#EXTINF:-1 group-title="token过期" tvg-logo="", 过期时间:2026-12-09 00:41:16
+https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
 #EXTINF:-1 tvg-name="CCTV-1" group-title="央视频道",CCTV-1
 http://180.165.60.180:4022/rtp/233.18.204.52:5140
 #EXTINF:-1 tvg-name="CCTV-2" group-title="央视频道",CCTV-2
@@ -35,141 +589,5 @@ http://180.165.60.180:4022/rtp/233.18.204.81:5140
 http://180.165.60.180:4022/rtp/233.18.204.82:5140
 #EXTINF:-1 tvg-name="CCTV-17" group-title="央视频道",CCTV-17
 http://180.165.60.180:4022/rtp/233.18.204.83:5140
-#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
-http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
-http://125.43.249.76:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
-http://120.76.248.139/live/bfgd/4200000083.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
-http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
-#EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道",江西卫视
-http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="延边卫视" group-title="卫视频道",延边卫视
-http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://125.43.249.76:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道",山西卫视
-http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
-http://120.76.248.139/live/bfgd/4200000100.m3u8
-#EXTINF:-1 tvg-name="东南卫视" group-title="卫视频道",东南卫视
-http://125.43.249.76:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道",山东卫视
-http://120.76.248.139/live/bfgd/4200000099.m3u8
-#EXTINF:-1 tvg-name="大湾区卫视" group-title="卫视频道",大湾区卫视
-http://222.128.55.152:9080/live/dwq.m3u8
-#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道",广东卫视
-http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道",天津卫视
-http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视频道",新疆卫视
-http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-#EXTINF:-1 tvg-name="青海卫视" group-title="卫视频道",青海卫视
-http://120.76.248.139/live/bfgd/4200000111.m3u8
-#EXTINF:-1 tvg-name="三沙卫视" group-title="卫视频道",三沙卫视
-http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道",四川卫视
-http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道",河南卫视
-http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="厦门卫视" group-title="卫视频道",厦门卫视
-http://192.151.150.154/live/xmws.m3u8
-#EXTINF:-1 tvg-name="河北卫视" group-title="卫视频道",河北卫视
-http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
-http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="人间卫视" group-title="卫视频道",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视频道",内蒙古卫视
-http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
-#EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道",广西卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
-#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
-http://120.76.248.139/live/bfgd/4200000102.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道",陕西卫视
-http://192.151.150.154/live/snwshd.m3u8
-#EXTINF:-1 tvg-name="安多卫视" group-title="卫视频道",安多卫视
-https://liveout.xntv.tv/a65jur/96iln2.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
-http://107.150.60.122/live/jlwshd.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视频道",西藏卫视
-http://120.76.248.139/live/bfgd/4200000121.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道",宁夏卫视
-http://198.204.228.26/live/nxws.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
-http://107.150.60.122/live/cqwshd.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" group-title="浙江频道",浙江少儿
-http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江教育科技" group-title="浙江频道",浙江教育科技
-http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-name="上虞新闻综合" group-title="浙江频道",上虞新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-name="余姚综合" group-title="浙江频道",余姚综合
-http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-name="萧山生活" group-title="浙江频道",萧山生活
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed?
-#EXTINF:-1 tvg-name="萧山综合" group-title="浙江频道",萧山综合
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1 tvg-name="浙江公共新闻" group-title="浙江频道",浙江公共新闻
-http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江钱江" group-title="浙江频道",浙江钱江
-http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
-#EXTINF:-1 tvg-name="浙江民生休闲" group-title="浙江频道",浙江民生休闲
-http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江经济生活" group-title="浙江频道",浙江经济生活
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
-#EXTINF:-1 tvg-name="浙江国际" group-title="浙江频道",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
-#EXTINF:-1 tvg-name="浙江新闻" group-title="浙江频道",浙江新闻
-http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
-#EXTINF:-1 tvg-name="浙江数码时代" group-title="浙江频道",浙江数码时代
-http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
-#EXTINF:-1 tvg-name="浙江钱江都市" group-title="浙江频道",浙江钱江都市
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-name="湖州新闻综合" group-title="浙江频道",湖州新闻综合
-http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
-#EXTINF:-1 tvg-name="上虞新商都" group-title="浙江频道",上虞新商都
-http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-#EXTINF:-1 tvg-name="余姚姚江文化" group-title="浙江频道",余姚姚江文化
-https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-#EXTINF:-1 tvg-name="浙江教科影视" group-title="浙江频道",浙江教科影视
-http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-#EXTINF:-1 tvg-name="嘉兴新闻综合" group-title="浙江频道",嘉兴新闻综合
-http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-#EXTINF:-1 tvg-name="湖州公共民生" group-title="浙江频道",湖州公共民生
-http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
-#EXTINF:-1 tvg-name="浙江教育" group-title="浙江频道",浙江教育
-http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
-#EXTINF:-1 tvg-name="浙江遂昌" group-title="浙江频道",浙江遂昌
-http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
-#EXTINF:-1 tvg-name="上虞文化影院" group-title="浙江频道",上虞文化影院
-http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 tvg-name="五星体育" group-title="上海江苏",五星体育
 http://180.165.60.180:4022/rtp/233.18.204.58:5140
-#EXTINF:-1 tvg-name="镇江新闻综合" group-title="上海江苏",镇江新闻综合
-http://cm-wshls.homecdn.com/live/2aa50.m3u8
-#EXTINF:-1 tvg-name="南京新闻综合" group-title="上海江苏",南京新闻综合
-http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
-#EXTINF:-1 tvg-name="南京少儿" group-title="上海江苏",南京少儿
-http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-#EXTINF:-1 tvg-name="上海第一财经" group-title="上海江苏",上海第一财经
-https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-#EXTINF:-1 tvg-name="苏州文化生活" group-title="上海江苏",苏州文化生活
-https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-#EXTINF:-1 tvg-name="苏州生活资讯" group-title="上海江苏",苏州生活资讯
-https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-#EXTINF:-1 tvg-name="苏州新闻综合" group-title="上海江苏",苏州新闻综合
-https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-#EXTINF:-1 tvg-name="苏州社会经济" group-title="上海江苏",苏州社会经济
-https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-#EXTINF:-1 tvg-name="南京教科" group-title="上海江苏",南京教科
-http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
