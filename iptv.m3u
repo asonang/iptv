@@ -435,300 +435,436 @@ http://iptv.cqshushu.com/gdy.php?id=aksdj&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
 http://iptv.cqshushu.com/gdy.php?id=altbeyhy&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
 #EXTINF:-1 tvg-id="海南儋州台" tvg-name="海南儋州台" tvg-logo="http://iptv.cqshushu.com/tv-logo/%E6%B5%B7%E5%8D%97%E5%84%8B%E5%B7%9E%E5%8F%B0.png" group-title="gdy",海南儋州台
 http://iptv.cqshushu.com/gdy.php?id=hndztv&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
-#EXTINF:-1 tvg-name="娱乐-热舞娱乐VS说球帝小秘 11-24 08:00:00[小秘]" tvg-logo="https://live.qiandongslim.com/advert/admin-images/2026/11/23/992c0c3d38834c5cbdbeda79e67a312b.png" group-title="比赛中",娱乐-热舞娱乐VS说球帝小秘 11-24 08:00:00[小秘]
-https://fb8c22fb-zbpull3.ams027.com/live/1233425520641110921.flv
-#EXTINF:-1 tvg-name="PG电子-电子娱乐VS爱豆专场 11-24 08:00:00[爱豆]" tvg-logo="https://live.qiandongslim.com/advert/admin-images/2026/11/23/b5bc04755412463eb15977cf610e201d.jpg" group-title="比赛中",PG电子-电子娱乐VS爱豆专场 11-24 08:00:00[爱豆]
-https://fb8c22fb-zbpull3.ams027.com/live/1233486252947320445.flv
-#EXTINF:-1 tvg-name="DB真人百家乐直播-DB真人百家乐VS梦岚专场 11-24 08:00:00[梦岚]" tvg-logo="https://live.qiandongslim.com/advert/admin-images/2026/11/23/cbade5ed5ee34195aa5cd4750bbdfcac.jpg" group-title="比赛中",DB真人百家乐直播-DB真人百家乐VS梦岚专场 11-24 08:00:00[梦岚]
-https://fb8c22fb-zbpull3.ams027.com/live/1233539210883657671.flv
-#EXTINF:-1 tvg-name="巴西甲-巴西国际VS维多利亚 11-24 06:30:00[优优]" tvg-logo="https://cdn.sportnanoapi.com/football/team/7fc8831956b0f4fab51d0390a3957780.png" group-title="未开赛",巴西甲-巴西国际VS维多利亚 11-24 06:30:00[优优]
-https://4d8c61fa-zbpull2.xunwn.com/live/1201235429950185366.flv
-#EXTINF:-1 tvg-name="巴西甲-巴西国际VS维多利亚 11-24 06:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/7fc8831956b0f4fab51d0390a3957780.png" group-title="未开赛",巴西甲-巴西国际VS维多利亚 11-24 06:30:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4465924
-#EXTINF:-1 tvg-name="巴西甲-博塔弗戈VS圣保罗 11-24 07:00:00[亨利]" tvg-logo="https://cdn.sportnanoapi.com/football/team/5d83c47462e5afb6f1add0ad508c300b.png" group-title="未开赛",巴西甲-博塔弗戈VS圣保罗 11-24 07:00:00[亨利]
-https://4d8c61fa-zbpull2.xunwn.com/live/1201306171757627300.flv
-#EXTINF:-1 tvg-name="巴西甲-博塔弗戈VS圣保罗 11-24 07:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/5d83c47462e5afb6f1add0ad508c300b.png" group-title="未开赛",巴西甲-博塔弗戈VS圣保罗 11-24 07:00:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4465953
-#EXTINF:-1 tvg-name="巴西甲-桑托斯VS格雷米奥 11-24 08:00:00[66]" tvg-logo="https://cdn.sportnanoapi.com/football/team/0840bace9b911b3f0dbadb710ea20316.png" group-title="未开赛",巴西甲-桑托斯VS格雷米奥 11-24 08:00:00[66]
-https://4d8c61fa-zbpull2.xunwn.com/live/1201339934333384264.flv
-#EXTINF:-1 tvg-name="巴西甲-桑托斯VS格雷米奥 11-24 08:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/0840bace9b911b3f0dbadb710ea20316.png" group-title="未开赛",巴西甲-桑托斯VS格雷米奥 11-24 08:00:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4465890
-#EXTINF:-1 tvg-name="NBA-黄蜂VS灰熊 11-24 08:00:00[甜甜酱]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/e52f6ac53681289c91703501a960cb3c.png" group-title="未开赛",NBA-黄蜂VS灰熊 11-24 08:00:00[甜甜酱]
-https://44c071a0-zbpull3.njlycc.com/live/1201495817144215120.flv
-#EXTINF:-1 tvg-name="NBA-黄蜂VS灰熊 11-24 08:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/e52f6ac53681289c91703501a960cb3c.png" group-title="未开赛",NBA-黄蜂VS灰熊 11-24 08:00:00[动画]
-https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3931729
-#EXTINF:-1 tvg-name="NBA-76人VS开拓者 11-24 08:00:00[冠希]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png" group-title="未开赛",NBA-76人VS开拓者 11-24 08:00:00[冠希]
-https://4d8c61fa-zbpull2.xunwn.com/live/1201390890194768480.flv
-#EXTINF:-1 tvg-name="NBA-76人VS开拓者 11-24 08:00:00[小熊]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png" group-title="未开赛",NBA-76人VS开拓者 11-24 08:00:00[小熊]
-https://4d8c61fa-zbpull2.xunwn.com/live/1201421554704042445.flv
-#EXTINF:-1 tvg-name="NBA-76人VS开拓者 11-24 08:00:00[书童]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png" group-title="未开赛",NBA-76人VS开拓者 11-24 08:00:00[书童]
-https://4d8c61fa-zbpull2.xunwn.com/live/1201458965962128247.flv
-#EXTINF:-1 tvg-name="NBA-76人VS开拓者 11-24 08:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png" group-title="未开赛",NBA-76人VS开拓者 11-24 08:00:00[动画]
-https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3931730
-#EXTINF:-1 tvg-name="NBA-步行者VS雷霆 11-24 08:30:00[老K]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/6f313b682482799762cf60dbc30dbfae.png" group-title="未开赛",NBA-步行者VS雷霆 11-24 08:30:00[老K]
-https://44c071a0-zbpull3.njlycc.com/live/1201533863603266761.flv
-#EXTINF:-1 tvg-name="NBA-步行者VS雷霆 11-24 08:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/6f313b682482799762cf60dbc30dbfae.png" group-title="未开赛",NBA-步行者VS雷霆 11-24 08:30:00[动画]
-https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3931731
-#EXTINF:-1 tvg-name="NBA-猛龙VS雄鹿 11-24 08:30:00[久久]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png" group-title="未开赛",NBA-猛龙VS雄鹿 11-24 08:30:00[久久]
-https://44c071a0-zbpull3.njlycc.com/live/1201570970391580207.flv
-#EXTINF:-1 tvg-name="NBA-猛龙VS雄鹿 11-24 08:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png" group-title="未开赛",NBA-猛龙VS雄鹿 11-24 08:30:00[动画]
-https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3931732
-#EXTINF:-1 tvg-name="NBA-森林狼VS篮网 11-24 08:30:00[小鱼]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/1700678b84ba5a771e76a067027bebb9.png" group-title="未开赛",NBA-森林狼VS篮网 11-24 08:30:00[小鱼]
-https://44c071a0-zbpull3.njlycc.com/live/1201616151642279416.flv
-#EXTINF:-1 tvg-name="NBA-森林狼VS篮网 11-24 08:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/1700678b84ba5a771e76a067027bebb9.png" group-title="未开赛",NBA-森林狼VS篮网 11-24 08:30:00[动画]
-https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3931733
-#EXTINF:-1 tvg-name="美职联-圣路易斯城VS洛杉矶FC 11-24 09:00:00[红豆]" tvg-logo="https://cdn.sportnanoapi.com/football/team/8adf954bc3f72a6287b83d3b946b7d0b.png" group-title="未开赛",美职联-圣路易斯城VS洛杉矶FC 11-24 09:00:00[红豆]
-https://4d8c61fa-zbpull2.xunwn.com/live/1201651490620325868.flv
-#EXTINF:-1 tvg-name="美职联-圣路易斯城VS洛杉矶FC 11-24 09:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/8adf954bc3f72a6287b83d3b946b7d0b.png" group-title="未开赛",美职联-圣路易斯城VS洛杉矶FC 11-24 09:00:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4666483
-#EXTINF:-1 tvg-name="NBA-公牛VS骑士 11-24 09:00:00[懂哥]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png" group-title="未开赛",NBA-公牛VS骑士 11-24 09:00:00[懂哥]
-https://4d8c61fa-zbpull2.xunwn.com/live/1201725023966685928.flv
-#EXTINF:-1 tvg-name="NBA-公牛VS骑士 11-24 09:00:00[刀仔粤]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png" group-title="未开赛",NBA-公牛VS骑士 11-24 09:00:00[刀仔粤]
-https://4d8c61fa-zbpull2.xunwn.com/live/1201771600552291591.flv
-#EXTINF:-1 tvg-name="NBA-公牛VS骑士 11-24 09:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png" group-title="未开赛",NBA-公牛VS骑士 11-24 09:00:00[动画]
-https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3931734
-#EXTINF:-1 tvg-name="NBA-鹈鹕VS太阳 11-24 09:00:00[开哥]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png" group-title="未开赛",NBA-鹈鹕VS太阳 11-24 09:00:00[开哥]
-https://44c071a0-zbpull3.njlycc.com/live/1201686875994094979.flv
-#EXTINF:-1 tvg-name="NBA-鹈鹕VS太阳 11-24 09:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png" group-title="未开赛",NBA-鹈鹕VS太阳 11-24 09:00:00[动画]
-https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3931735
-#EXTINF:-1 tvg-name="NBA-火箭VS快船 11-24 09:30:00[老默]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/bcfe797437f18526ff4e62177021f638.png" group-title="未开赛",NBA-火箭VS快船 11-24 09:30:00[老默]
-https://44c071a0-zbpull3.njlycc.com/live/1201809226157266518.flv
-#EXTINF:-1 tvg-name="NBA-火箭VS快船 11-24 09:30:00[威哥]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/bcfe797437f18526ff4e62177021f638.png" group-title="未开赛",NBA-火箭VS快船 11-24 09:30:00[威哥]
-https://4d8c61fa-zbpull2.xunwn.com/live/1201846316445438765.flv
-#EXTINF:-1 tvg-name="NBA-火箭VS快船 11-24 09:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/bcfe797437f18526ff4e62177021f638.png" group-title="未开赛",NBA-火箭VS快船 11-24 09:30:00[动画]
-https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3931736
-#EXTINF:-1 tvg-name="NBA-湖人VS爵士 11-24 11:00:00[冠希]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png" group-title="未开赛",NBA-湖人VS爵士 11-24 11:00:00[冠希]
-https://4d8c61fa-zbpull2.xunwn.com/live/1201925325554119736.flv
-#EXTINF:-1 tvg-name="NBA-湖人VS爵士 11-24 11:00:00[老K]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png" group-title="未开赛",NBA-湖人VS爵士 11-24 11:00:00[老K]
-https://4d8c61fa-zbpull2.xunwn.com/live/1201963205766365178.flv
-#EXTINF:-1 tvg-name="NBA-湖人VS爵士 11-24 11:00:00[书童]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png" group-title="未开赛",NBA-湖人VS爵士 11-24 11:00:00[书童]
-https://4d8c61fa-zbpull2.xunwn.com/live/1202018852922114800.flv
-#EXTINF:-1 tvg-name="NBA-湖人VS爵士 11-24 11:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png" group-title="未开赛",NBA-湖人VS爵士 11-24 11:00:00[动画]
-https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3931737
-#EXTINF:-1 tvg-name="NBA-国王VS马刺 11-24 11:00:00[清枫]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png" group-title="未开赛",NBA-国王VS马刺 11-24 11:00:00[清枫]
-https://4d8c61fa-zbpull2.xunwn.com/live/1201886965531481819.flv
-#EXTINF:-1 tvg-name="NBA-国王VS马刺 11-24 11:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png" group-title="未开赛",NBA-国王VS马刺 11-24 11:00:00[动画]
-https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3931738
-#EXTINF:-1 tvg-name="亚精英赛-纽卡斯尔喷气机VS柏太阳神 11-24 15:45:00[老麦]" tvg-logo="https://cdn.sportnanoapi.com/football/team/296c68ac5ad3ff621c10c6ebfb9954ca.png" group-title="未开赛",亚精英赛-纽卡斯尔喷气机VS柏太阳神 11-24 15:45:00[老麦]
-https://4d8c61fa-zbpull2.xunwn.com/live/1202058984901651292.flv
-#EXTINF:-1 tvg-name="亚精英赛-纽卡斯尔喷气机VS柏太阳神 11-24 15:45:00[一鸣]" tvg-logo="https://cdn.sportnanoapi.com/football/team/296c68ac5ad3ff621c10c6ebfb9954ca.png" group-title="未开赛",亚精英赛-纽卡斯尔喷气机VS柏太阳神 11-24 15:45:00[一鸣]
-https://4d8c61fa-zbpull2.xunwn.com/live/1202124285249252811.flv
-#EXTINF:-1 tvg-name="亚精英赛-纽卡斯尔喷气机VS柏太阳神 11-24 15:45:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/296c68ac5ad3ff621c10c6ebfb9954ca.png" group-title="未开赛",亚精英赛-纽卡斯尔喷气机VS柏太阳神 11-24 15:45:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4621531
-#EXTINF:-1 tvg-name="亚精英赛-大田市民VS北京国安 11-24 18:00:00[老K]" tvg-logo="https://cdn.sportnanoapi.com/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png" group-title="未开赛",亚精英赛-大田市民VS北京国安 11-24 18:00:00[老K]
-https://4d8c61fa-zbpull2.xunwn.com/live/1202261659214289456.flv
-#EXTINF:-1 tvg-name="亚精英赛-大田市民VS北京国安 11-24 18:00:00[暴龙粤]" tvg-logo="https://cdn.sportnanoapi.com/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png" group-title="未开赛",亚精英赛-大田市民VS北京国安 11-24 18:00:00[暴龙粤]
-https://4d8c61fa-zbpull2.xunwn.com/live/1202416520143783327.flv
-#EXTINF:-1 tvg-name="亚精英赛-大田市民VS北京国安 11-24 18:00:00[小熊]" tvg-logo="https://cdn.sportnanoapi.com/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png" group-title="未开赛",亚精英赛-大田市民VS北京国安 11-24 18:00:00[小熊]
-https://4d8c61fa-zbpull2.xunwn.com/live/1202454969234307693.flv
-#EXTINF:-1 tvg-name="亚精英赛-大田市民VS北京国安 11-24 18:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png" group-title="未开赛",亚精英赛-大田市民VS北京国安 11-24 18:00:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4621494
-#EXTINF:-1 tvg-name="亚精英赛-京都不死鸟VS浦项铁人 11-24 18:00:00[路飞]" tvg-logo="https://cdn.sportnanoapi.com/football/team/7d6fa50ea67cde7d66612a8189897ba5.png" group-title="未开赛",亚精英赛-京都不死鸟VS浦项铁人 11-24 18:00:00[路飞]
-https://4d8c61fa-zbpull2.xunwn.com/live/1202194339643128143.flv
-#EXTINF:-1 tvg-name="亚精英赛-京都不死鸟VS浦项铁人 11-24 18:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/7d6fa50ea67cde7d66612a8189897ba5.png" group-title="未开赛",亚精英赛-京都不死鸟VS浦项铁人 11-24 18:00:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4621543
-#EXTINF:-1 tvg-name="澳女篮-珀斯山猫女篮VSUC首都女篮 11-24 18:00:00[开哥]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/1813b3b36d7d59bc02b28035db7aed23.png" group-title="未开赛",澳女篮-珀斯山猫女篮VSUC首都女篮 11-24 18:00:00[开哥]
-https://4d8c61fa-zbpull2.xunwn.com/live/1202507696393164500.flv
-#EXTINF:-1 tvg-name="澳女篮-珀斯山猫女篮VSUC首都女篮 11-24 18:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/1813b3b36d7d59bc02b28035db7aed23.png" group-title="未开赛",澳女篮-珀斯山猫女篮VSUC首都女篮 11-24 18:00:00[动画]
-https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3925789
-#EXTINF:-1 tvg-name="WCBA-大连文体旅女篮VS合肥文旅女篮 11-24 19:30:00[清枫]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/nfc76640e91459ce3f67f87a8f8dbf622.png" group-title="未开赛",WCBA-大连文体旅女篮VS合肥文旅女篮 11-24 19:30:00[清枫]
-https://4d8c61fa-zbpull2.xunwn.com/live/1202550157681063692.flv
-#EXTINF:-1 tvg-name="WCBA-大连文体旅女篮VS合肥文旅女篮 11-24 19:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/nfc76640e91459ce3f67f87a8f8dbf622.png" group-title="未开赛",WCBA-大连文体旅女篮VS合肥文旅女篮 11-24 19:30:00[动画]
-https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3958904
-#EXTINF:-1 tvg-name="WCBA-东莞新彤盛女篮VS河南豫光金铅女篮 11-24 19:30:00[小鱼]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/00523cd4bf48d4e5c995253012cce01e.png" group-title="未开赛",WCBA-东莞新彤盛女篮VS河南豫光金铅女篮 11-24 19:30:00[小鱼]
-https://4d8c61fa-zbpull2.xunwn.com/live/1202626579953700275.flv
-#EXTINF:-1 tvg-name="WCBA-东莞新彤盛女篮VS河南豫光金铅女篮 11-24 19:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/00523cd4bf48d4e5c995253012cce01e.png" group-title="未开赛",WCBA-东莞新彤盛女篮VS河南豫光金铅女篮 11-24 19:30:00[动画]
-https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3958905
-#EXTINF:-1 tvg-name="WCBA-山西竹叶青酒女篮VS武汉盛帆黄鹤女篮 11-24 19:30:00[红豆]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/3afdfda57ca6ef4d3d875f098902f58f.png" group-title="未开赛",WCBA-山西竹叶青酒女篮VS武汉盛帆黄鹤女篮 11-24 19:30:00[红豆]
-https://4d8c61fa-zbpull2.xunwn.com/live/1202669988661991370.flv
-#EXTINF:-1 tvg-name="WCBA-山西竹叶青酒女篮VS武汉盛帆黄鹤女篮 11-24 19:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/3afdfda57ca6ef4d3d875f098902f58f.png" group-title="未开赛",WCBA-山西竹叶青酒女篮VS武汉盛帆黄鹤女篮 11-24 19:30:00[动画]
-https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3958906
-#EXTINF:-1 tvg-name="沙特甲-布赖代先锋VS阿科多 11-24 20:15:00[羊羊]" tvg-logo="https://cdn.sportnanoapi.com/football/team/93cb3602a997b8de2f0a671f32ff5c6f.png" group-title="未开赛",沙特甲-布赖代先锋VS阿科多 11-24 20:15:00[羊羊]
-https://4d8c61fa-zbpull2.xunwn.com/live/1202978164449856513.flv
-#EXTINF:-1 tvg-name="沙特甲-布赖代先锋VS阿科多 11-24 20:15:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/93cb3602a997b8de2f0a671f32ff5c6f.png" group-title="未开赛",沙特甲-布赖代先锋VS阿科多 11-24 20:15:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4602059
-#EXTINF:-1 tvg-name="亚精英赛-上海海港VS武里南联 11-24 20:15:00[老默]" tvg-logo="https://cdn.sportnanoapi.com/football/team/c4e143e537412003565cdb7c2d212538.png" group-title="未开赛",亚精英赛-上海海港VS武里南联 11-24 20:15:00[老默]
-https://4d8c61fa-zbpull2.xunwn.com/live/1203078200927563413.flv
-#EXTINF:-1 tvg-name="亚精英赛-上海海港VS武里南联 11-24 20:15:00[肥沙粤]" tvg-logo="https://cdn.sportnanoapi.com/football/team/c4e143e537412003565cdb7c2d212538.png" group-title="未开赛",亚精英赛-上海海港VS武里南联 11-24 20:15:00[肥沙粤]
-https://4d8c61fa-zbpull2.xunwn.com/live/1203115257437595374.flv
-#EXTINF:-1 tvg-name="亚精英赛-上海海港VS武里南联 11-24 20:15:00[凯莉]" tvg-logo="https://cdn.sportnanoapi.com/football/team/c4e143e537412003565cdb7c2d212538.png" group-title="未开赛",亚精英赛-上海海港VS武里南联 11-24 20:15:00[凯莉]
-https://4d8c61fa-zbpull2.xunwn.com/live/1203149783924095962.flv
-#EXTINF:-1 tvg-name="亚精英赛-上海海港VS武里南联 11-24 20:15:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/c4e143e537412003565cdb7c2d212538.png" group-title="未开赛",亚精英赛-上海海港VS武里南联 11-24 20:15:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4621463
-#EXTINF:-1 tvg-name="亚精英赛-河内公安VS神户胜利船 11-24 20:15:00[浩南]" tvg-logo="https://cdn.sportnanoapi.com/football/team/9882bbda1cd86a2af4e724f399d1a1c8.png" group-title="未开赛",亚精英赛-河内公安VS神户胜利船 11-24 20:15:00[浩南]
-https://4d8c61fa-zbpull2.xunwn.com/live/1203185930792753398.flv
-#EXTINF:-1 tvg-name="亚精英赛-河内公安VS神户胜利船 11-24 20:15:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/9882bbda1cd86a2af4e724f399d1a1c8.png" group-title="未开赛",亚精英赛-河内公安VS神户胜利船 11-24 20:15:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4621529
-#EXTINF:-1 tvg-name="亚精英赛-拉查武里VS柔佛新山 11-24 20:15:00[皮蛋]" tvg-logo="https://cdn.sportnanoapi.com/football/team/ca2b8d70931647840c78209be51763a3.png" group-title="未开赛",亚精英赛-拉查武里VS柔佛新山 11-24 20:15:00[皮蛋]
-https://4d8c61fa-zbpull2.xunwn.com/live/1203220588119313187.flv
-#EXTINF:-1 tvg-name="亚精英赛-拉查武里VS柔佛新山 11-24 20:15:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/ca2b8d70931647840c78209be51763a3.png" group-title="未开赛",亚精英赛-拉查武里VS柔佛新山 11-24 20:15:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4621536
-#EXTINF:-1 tvg-name="沙特甲-查巴垒VS祖尔菲 11-24 20:20:00[奇迹]" tvg-logo="https://cdn.sportnanoapi.com/football/team/ff21a5b966039a14fa4cd721d29b40ee.png" group-title="未开赛",沙特甲-查巴垒VS祖尔菲 11-24 20:20:00[奇迹]
-https://4d8c61fa-zbpull2.xunwn.com/live/1222936279336826689.flv
-#EXTINF:-1 tvg-name="沙特甲-查巴垒VS祖尔菲 11-24 20:20:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/ff21a5b966039a14fa4cd721d29b40ee.png" group-title="未开赛",沙特甲-查巴垒VS祖尔菲 11-24 20:20:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4602062
-#EXTINF:-1 tvg-name="沙特甲-塞卡凯阿拉伯VS纳杰马体育 11-24 20:20:00[哈维]" tvg-logo="https://cdn.sportnanoapi.com/football/team/6b326376b7791573f27a88fe9e9942a7.png" group-title="未开赛",沙特甲-塞卡凯阿拉伯VS纳杰马体育 11-24 20:20:00[哈维]
-https://4d8c61fa-zbpull2.xunwn.com/live/1203292110422573726.flv
-#EXTINF:-1 tvg-name="沙特甲-塞卡凯阿拉伯VS纳杰马体育 11-24 20:20:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/6b326376b7791573f27a88fe9e9942a7.png" group-title="未开赛",沙特甲-塞卡凯阿拉伯VS纳杰马体育 11-24 20:20:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4602063
-#EXTINF:-1 tvg-name="U17世界杯-哥斯达黎加U17VS爱尔兰U17 11-24 20:30:00[一鸣]" tvg-logo="https://cdn.sportnanoapi.com/football/team/2d7f3f6e23f7cb31f2209ab8cc8f47a4.png" group-title="未开赛",U17世界杯-哥斯达黎加U17VS爱尔兰U17 11-24 20:30:00[一鸣]
-https://4d8c61fa-zbpull2.xunwn.com/live/1203325212186898346.flv
-#EXTINF:-1 tvg-name="U17世界杯-哥斯达黎加U17VS爱尔兰U17 11-24 20:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/2d7f3f6e23f7cb31f2209ab8cc8f47a4.png" group-title="未开赛",U17世界杯-哥斯达黎加U17VS爱尔兰U17 11-24 20:30:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4544801
-#EXTINF:-1 tvg-name="U17世界杯-委内瑞拉U17VS罗马尼亚U17 11-24 20:30:00[路飞]" tvg-logo="https://cdn.sportnanoapi.com/football/team/dfa3dc7c4d56d73f925a782bc6063a4b.png" group-title="未开赛",U17世界杯-委内瑞拉U17VS罗马尼亚U17 11-24 20:30:00[路飞]
-https://4d8c61fa-zbpull2.xunwn.com/live/1203360467294842727.flv
-#EXTINF:-1 tvg-name="U17世界杯-委内瑞拉U17VS罗马尼亚U17 11-24 20:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/dfa3dc7c4d56d73f925a782bc6063a4b.png" group-title="未开赛",U17世界杯-委内瑞拉U17VS罗马尼亚U17 11-24 20:30:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4544832
-#EXTINF:-1 tvg-name="U17世界杯-日本U17VS塞尔维亚U17 11-24 21:00:00[伊布]" tvg-logo="https://cdn.sportnanoapi.com/football/team/4d444ad7ea33c56cfc0d5701b6e79f59.png" group-title="未开赛",U17世界杯-日本U17VS塞尔维亚U17 11-24 21:00:00[伊布]
-https://4d8c61fa-zbpull2.xunwn.com/live/1203394457920716161.flv
-#EXTINF:-1 tvg-name="U17世界杯-日本U17VS塞尔维亚U17 11-24 21:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/4d444ad7ea33c56cfc0d5701b6e79f59.png" group-title="未开赛",U17世界杯-日本U17VS塞尔维亚U17 11-24 21:00:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4544814
-#EXTINF:-1 tvg-name="U17世界杯-墨西哥U17VS喀麦隆U17 11-24 21:30:00[老麦]" tvg-logo="https://cdn.sportnanoapi.com/football/team/3653cce234494bfbd33e077f4a028f66.png" group-title="未开赛",U17世界杯-墨西哥U17VS喀麦隆U17 11-24 21:30:00[老麦]
-https://4d8c61fa-zbpull2.xunwn.com/live/1203428060799708468.flv
-#EXTINF:-1 tvg-name="U17世界杯-墨西哥U17VS喀麦隆U17 11-24 21:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/3653cce234494bfbd33e077f4a028f66.png" group-title="未开赛",U17世界杯-墨西哥U17VS喀麦隆U17 11-24 21:30:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4544816
-#EXTINF:-1 tvg-name="亚冠二级-东孟加拉VS胡塞因 11-24 21:45:00[小鱼]" tvg-logo="https://cdn.sportnanoapi.com/football/team/21649c3d173c8f4ec9d526432ad9f088.png" group-title="未开赛",亚冠二级-东孟加拉VS胡塞因 11-24 21:45:00[小鱼]
-https://4d8c61fa-zbpull2.xunwn.com/live/1223004005448658917.flv
-#EXTINF:-1 tvg-name="亚冠二级-东孟加拉VS胡塞因 11-24 21:45:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/21649c3d173c8f4ec9d526432ad9f088.png" group-title="未开赛",亚冠二级-东孟加拉VS胡塞因 11-24 21:45:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4621346
-#EXTINF:-1 tvg-name="俄杯-阿克隆陶里亚蒂VS莫斯科中央陆军 11-24 22:00:00[亨利]" tvg-logo="https://cdn.sportnanoapi.com/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png" group-title="未开赛",俄杯-阿克隆陶里亚蒂VS莫斯科中央陆军 11-24 22:00:00[亨利]
-https://4d8c61fa-zbpull2.xunwn.com/live/1203497542595052283.flv
-#EXTINF:-1 tvg-name="俄杯-阿克隆陶里亚蒂VS莫斯科中央陆军 11-24 22:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png" group-title="未开赛",俄杯-阿克隆陶里亚蒂VS莫斯科中央陆军 11-24 22:00:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4566143
-#EXTINF:-1 tvg-name="印度超-东北联VS德里体育 11-24 22:00:00[久久]" tvg-logo="https://cdn.sportnanoapi.com/football/team/b019c0b2f14edb23e5c9a10a37a2e548.png" group-title="未开赛",印度超-东北联VS德里体育 11-24 22:00:00[久久]
-https://4d8c61fa-zbpull2.xunwn.com/live/1203535758367956114.flv
-#EXTINF:-1 tvg-name="印度超-东北联VS德里体育 11-24 22:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/b019c0b2f14edb23e5c9a10a37a2e548.png" group-title="未开赛",印度超-东北联VS德里体育 11-24 22:00:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4655873
-#EXTINF:-1 tvg-name="U17世界杯-多米尼加共和国U17VS智利U17 11-24 22:30:00[汤米]" tvg-logo="https://cdn.sportnanoapi.com/football/team/b881bdc95f60018b055309c3ab096a5b.png" group-title="未开赛",U17世界杯-多米尼加共和国U17VS智利U17 11-24 22:30:00[汤米]
-https://4d8c61fa-zbpull2.xunwn.com/live/1203570215437720314.flv
-#EXTINF:-1 tvg-name="U17世界杯-多米尼加共和国U17VS智利U17 11-24 22:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/b881bdc95f60018b055309c3ab096a5b.png" group-title="未开赛",U17世界杯-多米尼加共和国U17VS智利U17 11-24 22:30:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4544828
-#EXTINF:-1 tvg-name="U17世界杯-巴西U17VS坦桑尼亚U17 11-24 23:00:00[凯莉]" tvg-logo="https://cdn.sportnanoapi.com/football/team/99bf3d153d4bf67d640051a1af322505.png" group-title="未开赛",U17世界杯-巴西U17VS坦桑尼亚U17 11-24 23:00:00[凯莉]
-https://4d8c61fa-zbpull2.xunwn.com/live/1203602948039700932.flv
-#EXTINF:-1 tvg-name="U17世界杯-巴西U17VS坦桑尼亚U17 11-24 23:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/99bf3d153d4bf67d640051a1af322505.png" group-title="未开赛",U17世界杯-巴西U17VS坦桑尼亚U17 11-24 23:00:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4544800
-#EXTINF:-1 tvg-name="埃及超-史莫哈VS埃及国家银行 11-24 23:00:00[浩南]" tvg-logo="https://cdn.sportnanoapi.com/football/team/2859c6dc44290631fe151b7d306dfde6.png" group-title="未开赛",埃及超-史莫哈VS埃及国家银行 11-24 23:00:00[浩南]
-https://4d8c61fa-zbpull2.xunwn.com/live/1203634131064978168.flv
-#EXTINF:-1 tvg-name="埃及超-史莫哈VS埃及国家银行 11-24 23:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/2859c6dc44290631fe151b7d306dfde6.png" group-title="未开赛",埃及超-史莫哈VS埃及国家银行 11-24 23:00:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4614738
-#EXTINF:-1 tvg-name="埃及超-泽德FCVS西梅德斯 11-24 23:00:00[大宝]" tvg-logo="https://cdn.sportnanoapi.com/football/team/a08754ab96c283bacbf148154a50c7fc.png" group-title="未开赛",埃及超-泽德FCVS西梅德斯 11-24 23:00:00[大宝]
-https://4d8c61fa-zbpull2.xunwn.com/live/1203665454550133513.flv
-#EXTINF:-1 tvg-name="埃及超-泽德FCVS西梅德斯 11-24 23:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/a08754ab96c283bacbf148154a50c7fc.png" group-title="未开赛",埃及超-泽德FCVS西梅德斯 11-24 23:00:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4614739
-#EXTINF:-1 tvg-name="U17世界杯-阿尔及利亚U17VS黑山U17 11-24 23:30:00[皮蛋]" tvg-logo="https://cdn.sportnanoapi.com/football/team/c0f3a9cc8c0672341632498cdfb3fff9.png" group-title="未开赛",U17世界杯-阿尔及利亚U17VS黑山U17 11-24 23:30:00[皮蛋]
-https://4d8c61fa-zbpull2.xunwn.com/live/1203698380940226928.flv
-#EXTINF:-1 tvg-name="U17世界杯-阿尔及利亚U17VS黑山U17 11-24 23:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/c0f3a9cc8c0672341632498cdfb3fff9.png" group-title="未开赛",U17世界杯-阿尔及利亚U17VS黑山U17 11-24 23:30:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4544799
-#EXTINF:-1 tvg-name="U17世界杯-洪都拉斯U17VS哥伦比亚U17 11-24 23:30:00[洋哥]" tvg-logo="https://cdn.sportnanoapi.com/football/team/570197ce24c78651ca363a146213ba08.png" group-title="未开赛",U17世界杯-洪都拉斯U17VS哥伦比亚U17 11-24 23:30:00[洋哥]
-https://4d8c61fa-zbpull2.xunwn.com/live/1203733469371200650.flv
-#EXTINF:-1 tvg-name="U17世界杯-洪都拉斯U17VS哥伦比亚U17 11-24 23:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/570197ce24c78651ca363a146213ba08.png" group-title="未开赛",U17世界杯-洪都拉斯U17VS哥伦比亚U17 11-24 23:30:00[动画]
-https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4544812
+#EXTINF:-1 tvg-name="PG电子-电子娱乐VS爱豆专场 11-25 08:00:00[爱豆]" tvg-logo="https://live.qiandongslim.com/advert/admin-images/2026/11/24/0913832aa843416f8c3f674fb759e629.jpg" group-title="比赛中",PG电子-电子娱乐VS爱豆专场 11-25 08:00:00[爱豆]
+https://fb8c22fb-zbpull3.ams027.com/live/1320891177793859917.flv
+#EXTINF:-1 tvg-name="DB真人百家乐直播-DB真人百家乐VS梦岚专场 11-25 08:00:00[梦岚]" tvg-logo="https://live.qiandongslim.com/advert/admin-images/2026/11/24/87bf762e21af4405a432aa0860b5f01e.jpg" group-title="比赛中",DB真人百家乐直播-DB真人百家乐VS梦岚专场 11-25 08:00:00[梦岚]
+https://fb8c22fb-zbpull3.ams027.com/live/1320955217855838925.flv
+#EXTINF:-1 tvg-name="欧篮联-巴塞罗那VS费内巴切 11-25 04:00:00[懂哥]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/3fd0a47f5891f27c0a98cf96e7c221af.png" group-title="比赛中",欧篮联-巴塞罗那VS费内巴切 11-25 04:00:00[懂哥]
+https://4d8c61fa-zbpull2.xunwn.com/live/1284641835790342557.flv
+#EXTINF:-1 tvg-name="欧篮联-巴塞罗那VS费内巴切 11-25 04:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/3fd0a47f5891f27c0a98cf96e7c221af.png" group-title="比赛中",欧篮联-巴塞罗那VS费内巴切 11-25 04:00:00[动画]
+https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3926808
+#EXTINF:-1 tvg-name="巴西甲-沙佩科恩斯VS帕尔梅拉斯 11-25 05:00:00[66]" tvg-logo="https://cdn.sportnanoapi.com/football/team/4970b9a9a215c78759a6bb84ecaa3701.png" group-title="比赛中",巴西甲-沙佩科恩斯VS帕尔梅拉斯 11-25 05:00:00[66]
+https://4d8c61fa-zbpull2.xunwn.com/live/1284674895403619765.flv
+#EXTINF:-1 tvg-name="巴西甲-沙佩科恩斯VS帕尔梅拉斯 11-25 05:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/4970b9a9a215c78759a6bb84ecaa3701.png" group-title="比赛中",巴西甲-沙佩科恩斯VS帕尔梅拉斯 11-25 05:00:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4465907
+#EXTINF:-1 tvg-name="智利杯-科其姆波VS拉卡莱拉联 11-25 06:00:00[优优]" tvg-logo="https://cdn.sportnanoapi.com/football/team/e62f69a9de87796972eb59d19c27e59c.png" group-title="比赛中",智利杯-科其姆波VS拉卡莱拉联 11-25 06:00:00[优优]
+https://4d8c61fa-zbpull2.xunwn.com/live/1284714808411574261.flv
+#EXTINF:-1 tvg-name="智利杯-科其姆波VS拉卡莱拉联 11-25 06:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/e62f69a9de87796972eb59d19c27e59c.png" group-title="比赛中",智利杯-科其姆波VS拉卡莱拉联 11-25 06:00:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4665513
+#EXTINF:-1 tvg-name="哥伦甲-百万富翁VS布卡拉曼加 11-25 07:20:00[甜甜酱]" tvg-logo="https://cdn.sportnanoapi.com/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png" group-title="未开赛",哥伦甲-百万富翁VS布卡拉曼加 11-25 07:20:00[甜甜酱]
+https://4d8c61fa-zbpull2.xunwn.com/live/1284749707536536669.flv
+#EXTINF:-1 tvg-name="哥伦甲-百万富翁VS布卡拉曼加 11-25 07:20:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png" group-title="未开赛",哥伦甲-百万富翁VS布卡拉曼加 11-25 07:20:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4669929
+#EXTINF:-1 tvg-name="NBA-魔术VS活塞 11-25 08:00:00[老默]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png" group-title="未开赛",NBA-魔术VS活塞 11-25 08:00:00[老默]
+https://44c071a0-zbpull3.njlycc.com/live/1284782834449009974.flv
+#EXTINF:-1 tvg-name="NBA-魔术VS活塞 11-25 08:00:00[老K]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png" group-title="未开赛",NBA-魔术VS活塞 11-25 08:00:00[老K]
+https://44c071a0-zbpull3.njlycc.com/live/1284822959183393313.flv
+#EXTINF:-1 tvg-name="NBA-魔术VS活塞 11-25 08:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png" group-title="未开赛",NBA-魔术VS活塞 11-25 08:00:00[动画]
+https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3931496
+#EXTINF:-1 tvg-name="NBA-奇才VS凯尔特人 11-25 09:00:00[小鱼]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/ac18ecfecac3af349477383866cf8ef5.png" group-title="未开赛",NBA-奇才VS凯尔特人 11-25 09:00:00[小鱼]
+https://4d8c61fa-zbpull2.xunwn.com/live/1284857344862367162.flv
+#EXTINF:-1 tvg-name="NBA-奇才VS凯尔特人 11-25 09:00:00[开哥]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/ac18ecfecac3af349477383866cf8ef5.png" group-title="未开赛",NBA-奇才VS凯尔特人 11-25 09:00:00[开哥]
+https://4d8c61fa-zbpull2.xunwn.com/live/1284892444358884484.flv
+#EXTINF:-1 tvg-name="NBA-奇才VS凯尔特人 11-25 09:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/ac18ecfecac3af349477383866cf8ef5.png" group-title="未开赛",NBA-奇才VS凯尔特人 11-25 09:00:00[动画]
+https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3931497
+#EXTINF:-1 tvg-name="哥伦甲-卡利美洲VS卡利体育会 11-25 09:30:00[66]" tvg-logo="https://cdn.sportnanoapi.com/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png" group-title="未开赛",哥伦甲-卡利美洲VS卡利体育会 11-25 09:30:00[66]
+https://4d8c61fa-zbpull2.xunwn.com/live/1284927086127345795.flv
+#EXTINF:-1 tvg-name="哥伦甲-卡利美洲VS卡利体育会 11-25 09:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png" group-title="未开赛",哥伦甲-卡利美洲VS卡利体育会 11-25 09:30:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4669930
+#EXTINF:-1 tvg-name="美职联-圣何塞地震VS休斯敦迪纳摩 11-25 11:00:00[久久]" tvg-logo="https://cdn.sportnanoapi.com/football/team/7079d708b4e391c0c26b20da7b2fb32c.png" group-title="未开赛",美职联-圣何塞地震VS休斯敦迪纳摩 11-25 11:00:00[久久]
+https://4d8c61fa-zbpull2.xunwn.com/live/1284963986957899744.flv
+#EXTINF:-1 tvg-name="美职联-圣何塞地震VS休斯敦迪纳摩 11-25 11:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/7079d708b4e391c0c26b20da7b2fb32c.png" group-title="未开赛",美职联-圣何塞地震VS休斯敦迪纳摩 11-25 11:00:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4666484
+#EXTINF:-1 tvg-name="NBA-掘金VS独行侠 11-25 11:00:00[小熊]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png" group-title="未开赛",NBA-掘金VS独行侠 11-25 11:00:00[小熊]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285001721113633568.flv
+#EXTINF:-1 tvg-name="NBA-掘金VS独行侠 11-25 11:00:00[威哥]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png" group-title="未开赛",NBA-掘金VS独行侠 11-25 11:00:00[威哥]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285032926406045221.flv
+#EXTINF:-1 tvg-name="NBA-掘金VS独行侠 11-25 11:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png" group-title="未开赛",NBA-掘金VS独行侠 11-25 11:00:00[动画]
+https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3931498
+#EXTINF:-1 tvg-name="亚冠二级-墨尔本胜利VS越电信体工 11-25 15:45:00[红豆]" tvg-logo="https://cdn.sportnanoapi.com/football/team/c540f8f279c09a2a3df1cbbfe82d7184.png" group-title="未开赛",亚冠二级-墨尔本胜利VS越电信体工 11-25 15:45:00[红豆]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285073188820714311.flv
+#EXTINF:-1 tvg-name="亚冠二级-墨尔本胜利VS越电信体工 11-25 15:45:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/c540f8f279c09a2a3df1cbbfe82d7184.png" group-title="未开赛",亚冠二级-墨尔本胜利VS越电信体工 11-25 15:45:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4621353
+#EXTINF:-1 tvg-name="日职联-水户蜀葵VS东京绿茵 11-25 18:00:00[路飞]" tvg-logo="https://cdn.sportnanoapi.com/football/team/9ead844240532c4e12d3eb45d2087924.png" group-title="未开赛",日职联-水户蜀葵VS东京绿茵 11-25 18:00:00[路飞]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285108535506642587.flv
+#EXTINF:-1 tvg-name="日职联-水户蜀葵VS东京绿茵 11-25 18:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/9ead844240532c4e12d3eb45d2087924.png" group-title="未开赛",日职联-水户蜀葵VS东京绿茵 11-25 18:00:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4555290
+#EXTINF:-1 tvg-name="日职联-FC东京VS广岛三箭 11-25 18:00:00[小鱼]" tvg-logo="https://cdn.sportnanoapi.com/football/team/333df39860930a21cf72b4e9664723ab.png" group-title="未开赛",日职联-FC东京VS广岛三箭 11-25 18:00:00[小鱼]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285144587625885966.flv
+#EXTINF:-1 tvg-name="日职联-FC东京VS广岛三箭 11-25 18:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/333df39860930a21cf72b4e9664723ab.png" group-title="未开赛",日职联-FC东京VS广岛三箭 11-25 18:00:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4555311
+#EXTINF:-1 tvg-name="日职联-冈山绿雉VS清水心跳 11-25 18:00:00[一鸣]" tvg-logo="https://cdn.sportnanoapi.com/football/team/fb5c6121bf5b351f60ebf8ffd5b9d887.png" group-title="未开赛",日职联-冈山绿雉VS清水心跳 11-25 18:00:00[一鸣]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285178371674152482.flv
+#EXTINF:-1 tvg-name="日职联-冈山绿雉VS清水心跳 11-25 18:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/fb5c6121bf5b351f60ebf8ffd5b9d887.png" group-title="未开赛",日职联-冈山绿雉VS清水心跳 11-25 18:00:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4555314
+#EXTINF:-1 tvg-name="日职联-福冈黄蜂VS横滨水手 11-25 18:00:00[伊布]" tvg-logo="https://cdn.sportnanoapi.com/football/team/bf0e2229b39b6cb6fd17e9d0f3fb747e.png" group-title="未开赛",日职联-福冈黄蜂VS横滨水手 11-25 18:00:00[伊布]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285211042617864581.flv
+#EXTINF:-1 tvg-name="日职联-福冈黄蜂VS横滨水手 11-25 18:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/bf0e2229b39b6cb6fd17e9d0f3fb747e.png" group-title="未开赛",日职联-福冈黄蜂VS横滨水手 11-25 18:00:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4555327
+#EXTINF:-1 tvg-name="日职联-千叶市原VS名古屋鲸鱼 11-25 18:00:00[亨利]" tvg-logo="https://cdn.sportnanoapi.com/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png" group-title="未开赛",日职联-千叶市原VS名古屋鲸鱼 11-25 18:00:00[亨利]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285265035800461989.flv
+#EXTINF:-1 tvg-name="日职联-千叶市原VS名古屋鲸鱼 11-25 18:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png" group-title="未开赛",日职联-千叶市原VS名古屋鲸鱼 11-25 18:00:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4555338
+#EXTINF:-1 tvg-name="日职联-长崎航海VS川崎前锋 11-25 18:00:00[洋哥]" tvg-logo="https://cdn.sportnanoapi.com/football/team/b28ace839956d8eacce11926ea5e43b3.png" group-title="未开赛",日职联-长崎航海VS川崎前锋 11-25 18:00:00[洋哥]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285299876553341110.flv
+#EXTINF:-1 tvg-name="日职联-长崎航海VS川崎前锋 11-25 18:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/b28ace839956d8eacce11926ea5e43b3.png" group-title="未开赛",日职联-长崎航海VS川崎前锋 11-25 18:00:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4555351
+#EXTINF:-1 tvg-name="亚精英赛-大阪钢巴VS泰港 11-25 18:00:00[老默]" tvg-logo="https://cdn.sportnanoapi.com/football/team/91008a96b5de8c75376d17057f89890e.png" group-title="未开赛",亚精英赛-大阪钢巴VS泰港 11-25 18:00:00[老默]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285368236513463283.flv
+#EXTINF:-1 tvg-name="亚精英赛-大阪钢巴VS泰港 11-25 18:00:00[老麦]" tvg-logo="https://cdn.sportnanoapi.com/football/team/91008a96b5de8c75376d17057f89890e.png" group-title="未开赛",亚精英赛-大阪钢巴VS泰港 11-25 18:00:00[老麦]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285403416465284699.flv
+#EXTINF:-1 tvg-name="亚精英赛-大阪钢巴VS泰港 11-25 18:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/91008a96b5de8c75376d17057f89890e.png" group-title="未开赛",亚精英赛-大阪钢巴VS泰港 11-25 18:00:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4621502
+#EXTINF:-1 tvg-name="亚精英赛-鹿岛鹿角VS全北现代 11-25 18:00:00[浩南]" tvg-logo="https://cdn.sportnanoapi.com/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png" group-title="未开赛",亚精英赛-鹿岛鹿角VS全北现代 11-25 18:00:00[浩南]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285438386490622629.flv
+#EXTINF:-1 tvg-name="亚精英赛-鹿岛鹿角VS全北现代 11-25 18:00:00[小熊]" tvg-logo="https://cdn.sportnanoapi.com/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png" group-title="未开赛",亚精英赛-鹿岛鹿角VS全北现代 11-25 18:00:00[小熊]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285472777166413514.flv
+#EXTINF:-1 tvg-name="亚精英赛-鹿岛鹿角VS全北现代 11-25 18:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png" group-title="未开赛",亚精英赛-鹿岛鹿角VS全北现代 11-25 18:00:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4621510
+#EXTINF:-1 tvg-name="韩女甲-友利银行女篮VS清州KB之星女篮 11-25 18:00:00[老K]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/372ebf16ae571d85ee98090b0ee60e41.png" group-title="未开赛",韩女甲-友利银行女篮VS清州KB之星女篮 11-25 18:00:00[老K]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285533005992147958.flv
+#EXTINF:-1 tvg-name="韩女甲-友利银行女篮VS清州KB之星女篮 11-25 18:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/372ebf16ae571d85ee98090b0ee60e41.png" group-title="未开赛",韩女甲-友利银行女篮VS清州KB之星女篮 11-25 18:00:00[动画]
+https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3946105
+#EXTINF:-1 tvg-name="日职联-浦和红钻VS大阪樱花 11-25 18:30:00[七天]" tvg-logo="https://cdn.sportnanoapi.com/football/team/ca15e36551392e8c99b53b5b2f8531d3.png" group-title="未开赛",日职联-浦和红钻VS大阪樱花 11-25 18:30:00[七天]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285568500569976925.flv
+#EXTINF:-1 tvg-name="日职联-浦和红钻VS大阪樱花 11-25 18:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/ca15e36551392e8c99b53b5b2f8531d3.png" group-title="未开赛",日职联-浦和红钻VS大阪樱花 11-25 18:30:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4555331
+#EXTINF:-1 tvg-name="中台职大联盟-宝岛梦想家VS新竹攻城狮 11-25 19:00:00[久久]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/9c0da8a9409a4e838274dd9efb06d5a1.png" group-title="未开赛",中台职大联盟-宝岛梦想家VS新竹攻城狮 11-25 19:00:00[久久]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285600008332121450.flv
+#EXTINF:-1 tvg-name="中台职大联盟-宝岛梦想家VS新竹攻城狮 11-25 19:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/9c0da8a9409a4e838274dd9efb06d5a1.png" group-title="未开赛",中台职大联盟-宝岛梦想家VS新竹攻城狮 11-25 19:00:00[动画]
+https://tracker.namitiyu.com/zh/version_3d/basketball?profile=28KaSdu3QtpHm&id=3940345
+#EXTINF:-1 tvg-name="俄甲-下卡姆斯克石油VS伏尔加格勒 11-25 20:00:00[红豆]" tvg-logo="https://cdn.sportnanoapi.com/football/team/e37b8f1e34de8f18adbb25aebc3d09d9.png" group-title="未开赛",俄甲-下卡姆斯克石油VS伏尔加格勒 11-25 20:00:00[红豆]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285635830238772458.flv
+#EXTINF:-1 tvg-name="俄甲-下卡姆斯克石油VS伏尔加格勒 11-25 20:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/e37b8f1e34de8f18adbb25aebc3d09d9.png" group-title="未开赛",俄甲-下卡姆斯克石油VS伏尔加格勒 11-25 20:00:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4576575
+#EXTINF:-1 tvg-name="沙特甲-安瓦尔VS积尼达 11-25 20:10:00[飞哥]" tvg-logo="https://cdn.sportnanoapi.com/football/team/112d2346959358934a9daf50169ba7b4.png" group-title="未开赛",沙特甲-安瓦尔VS积尼达 11-25 20:10:00[飞哥]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285671053328361995.flv
+#EXTINF:-1 tvg-name="沙特甲-安瓦尔VS积尼达 11-25 20:10:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/112d2346959358934a9daf50169ba7b4.png" group-title="未开赛",沙特甲-安瓦尔VS积尼达 11-25 20:10:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4602065
+#EXTINF:-1 tvg-name="沙特甲-布凯里耶VS麦加统一 11-25 20:10:00[优优]" tvg-logo="https://cdn.sportnanoapi.com/football/team/608b8974ad512df1293585825bef3cee.png" group-title="未开赛",沙特甲-布凯里耶VS麦加统一 11-25 20:10:00[优优]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285704221766683575.flv
+#EXTINF:-1 tvg-name="沙特甲-布凯里耶VS麦加统一 11-25 20:10:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/608b8974ad512df1293585825bef3cee.png" group-title="未开赛",沙特甲-布凯里耶VS麦加统一 11-25 20:10:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4602066
+#EXTINF:-1 tvg-name="亚冠二级-万隆VSFC首尔 11-25 20:15:00[凯莉]" tvg-logo="https://cdn.sportnanoapi.com/football/team/b2004093bf25a5a8d1768970d6e49d71.png" group-title="未开赛",亚冠二级-万隆VSFC首尔 11-25 20:15:00[凯莉]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285738248566256619.flv
+#EXTINF:-1 tvg-name="亚冠二级-万隆VSFC首尔 11-25 20:15:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/b2004093bf25a5a8d1768970d6e49d71.png" group-title="未开赛",亚冠二级-万隆VSFC首尔 11-25 20:15:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4621358
+#EXTINF:-1 tvg-name="U17世界杯-厄瓜多尔U17VS韩国U17 11-25 20:30:00[甜甜酱]" tvg-logo="https://cdn.sportnanoapi.com/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png" group-title="未开赛",U17世界杯-厄瓜多尔U17VS韩国U17 11-25 20:30:00[甜甜酱]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285779908591915463.flv
+#EXTINF:-1 tvg-name="U17世界杯-厄瓜多尔U17VS韩国U17 11-25 20:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png" group-title="未开赛",U17世界杯-厄瓜多尔U17VS韩国U17 11-25 20:30:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4544855
+#EXTINF:-1 tvg-name="U17世界杯-乌干达U17VS新喀里多尼亚U17 11-25 20:30:00[小熊]" tvg-logo="https://cdn.sportnanoapi.com/football/team/81f7acabd411274fcf65ce2070ed568a.png" group-title="未开赛",U17世界杯-乌干达U17VS新喀里多尼亚U17 11-25 20:30:00[小熊]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285811999495710816.flv
+#EXTINF:-1 tvg-name="U17世界杯-乌干达U17VS新喀里多尼亚U17 11-25 20:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/81f7acabd411274fcf65ce2070ed568a.png" group-title="未开赛",U17世界杯-乌干达U17VS新喀里多尼亚U17 11-25 20:30:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4544916
+#EXTINF:-1 tvg-name="U17世界杯-海地U17VS沙特阿拉伯U17 11-25 21:30:00[羊羊]" tvg-logo="https://cdn.sportnanoapi.com/football/team/087bc7552322045ad94868390dce5b37.png" group-title="未开赛",U17世界杯-海地U17VS沙特阿拉伯U17 11-25 21:30:00[羊羊]
+https://4d8c61fa-zbpull2.xunwn.com/live/1285846171616644668.flv
+#EXTINF:-1 tvg-name="U17世界杯-海地U17VS沙特阿拉伯U17 11-25 21:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/087bc7552322045ad94868390dce5b37.png" group-title="未开赛",U17世界杯-海地U17VS沙特阿拉伯U17 11-25 21:30:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4544857
+#EXTINF:-1 tvg-name="U17世界杯-乌拉圭U17VS法国U17 11-25 21:30:00[浩南]" tvg-logo="https://cdn.sportnanoapi.com/football/team/3068cfc254b9a77c7eac84c9565eeeab.png" group-title="未开赛",U17世界杯-乌拉圭U17VS法国U17 11-25 21:30:00[浩南]
+https://4d8c61fa-zbpull2.xunwn.com/live/1286035801321424518.flv
+#EXTINF:-1 tvg-name="U17世界杯-乌拉圭U17VS法国U17 11-25 21:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/3068cfc254b9a77c7eac84c9565eeeab.png" group-title="未开赛",U17世界杯-乌拉圭U17VS法国U17 11-25 21:30:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4544874
+#EXTINF:-1 tvg-name="亚冠二级-纳萨夫VS哈尔迪亚 11-25 21:45:00[伊布]" tvg-logo="https://cdn.sportnanoapi.com/football/team/bef3a45bcf56447c8acfb7b077820022.png" group-title="未开赛",亚冠二级-纳萨夫VS哈尔迪亚 11-25 21:45:00[伊布]
+https://4d8c61fa-zbpull2.xunwn.com/live/1286072536887060111.flv
+#EXTINF:-1 tvg-name="亚冠二级-纳萨夫VS哈尔迪亚 11-25 21:45:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/bef3a45bcf56447c8acfb7b077820022.png" group-title="未开赛",亚冠二级-纳萨夫VS哈尔迪亚 11-25 21:45:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4621304
+#EXTINF:-1 tvg-name="U17世界杯-希腊U17VS卡塔尔U17 11-25 22:30:00[路飞]" tvg-logo="https://cdn.sportnanoapi.com/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png" group-title="未开赛",U17世界杯-希腊U17VS卡塔尔U17 11-25 22:30:00[路飞]
+https://4d8c61fa-zbpull2.xunwn.com/live/1286104109674272518.flv
+#EXTINF:-1 tvg-name="U17世界杯-希腊U17VS卡塔尔U17 11-25 22:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png" group-title="未开赛",U17世界杯-希腊U17VS卡塔尔U17 11-25 22:30:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4544856
+#EXTINF:-1 tvg-name="U17世界杯-巴拿马U17VS埃及U17 11-25 22:30:00[老麦]" tvg-logo="https://cdn.sportnanoapi.com/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png" group-title="未开赛",U17世界杯-巴拿马U17VS埃及U17 11-25 22:30:00[老麦]
+https://4d8c61fa-zbpull2.xunwn.com/live/1286139249139230809.flv
+#EXTINF:-1 tvg-name="U17世界杯-巴拿马U17VS埃及U17 11-25 22:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png" group-title="未开赛",U17世界杯-巴拿马U17VS埃及U17 11-25 22:30:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4544869
+#EXTINF:-1 tvg-name="俄杯-格罗兹尼VS克拉斯诺达尔 11-25 23:00:00[亨利]" tvg-logo="https://cdn.sportnanoapi.com/football/team/553ebe5306456914b5574aa8ef0eaf0f.png" group-title="未开赛",俄杯-格罗兹尼VS克拉斯诺达尔 11-25 23:00:00[亨利]
+https://4d8c61fa-zbpull2.xunwn.com/live/1286177873027188465.flv
+#EXTINF:-1 tvg-name="俄杯-格罗兹尼VS克拉斯诺达尔 11-25 23:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/553ebe5306456914b5574aa8ef0eaf0f.png" group-title="未开赛",俄杯-格罗兹尼VS克拉斯诺达尔 11-25 23:00:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4566123
+#EXTINF:-1 tvg-name="俄杯-马哈奇卡拉VS波罗的海 11-25 23:00:00[鸿运]" tvg-logo="https://cdn.sportnanoapi.com/football/team/7b11b90674c860eae445d9e5c8f17fe8.png" group-title="未开赛",俄杯-马哈奇卡拉VS波罗的海 11-25 23:00:00[鸿运]
+https://4d8c61fa-zbpull2.xunwn.com/live/1286212464263304200.flv
+#EXTINF:-1 tvg-name="俄杯-马哈奇卡拉VS波罗的海 11-25 23:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/7b11b90674c860eae445d9e5c8f17fe8.png" group-title="未开赛",俄杯-马哈奇卡拉VS波罗的海 11-25 23:00:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4566124
+#EXTINF:-1 tvg-name="俄甲-卡玛斯VS叶尼塞 11-25 23:00:00[暴龙]" tvg-logo="https://cdn.sportnanoapi.com/football/team/eba225b968ea660af2261349aa0d5aa5.png" group-title="未开赛",俄甲-卡玛斯VS叶尼塞 11-25 23:00:00[暴龙]
+https://4d8c61fa-zbpull2.xunwn.com/live/1286246838128748942.flv
+#EXTINF:-1 tvg-name="俄甲-卡玛斯VS叶尼塞 11-25 23:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/eba225b968ea660af2261349aa0d5aa5.png" group-title="未开赛",俄甲-卡玛斯VS叶尼塞 11-25 23:00:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4576573
+#EXTINF:-1 tvg-name="埃及超-杰艾斯VS现代体育 11-25 23:00:00[大宝]" tvg-logo="https://cdn.sportnanoapi.com/football/team/bacc15441ed99eaad038d4ceb86751d6.png" group-title="未开赛",埃及超-杰艾斯VS现代体育 11-25 23:00:00[大宝]
+https://4d8c61fa-zbpull2.xunwn.com/live/1286280704184255519.flv
+#EXTINF:-1 tvg-name="埃及超-杰艾斯VS现代体育 11-25 23:00:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/bacc15441ed99eaad038d4ceb86751d6.png" group-title="未开赛",埃及超-杰艾斯VS现代体育 11-25 23:00:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4614743
+#EXTINF:-1 tvg-name="沙特甲-乌拉VS哈萨正义 11-25 23:10:00[凯莉]" tvg-logo="https://cdn.sportnanoapi.com/football/team/549d4646fcb8ca785a05d18da7a1c9b7.png" group-title="未开赛",沙特甲-乌拉VS哈萨正义 11-25 23:10:00[凯莉]
+https://4d8c61fa-zbpull2.xunwn.com/live/1286313543556320845.flv
+#EXTINF:-1 tvg-name="沙特甲-乌拉VS哈萨正义 11-25 23:10:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/549d4646fcb8ca785a05d18da7a1c9b7.png" group-title="未开赛",沙特甲-乌拉VS哈萨正义 11-25 23:10:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4602067
+#EXTINF:-1 tvg-name="U17世界杯-丹麦U17VS阿根廷U17 11-25 23:30:00[飞哥]" tvg-logo="https://cdn.sportnanoapi.com/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png" group-title="未开赛",U17世界杯-丹麦U17VS阿根廷U17 11-25 23:30:00[飞哥]
+https://4d8c61fa-zbpull2.xunwn.com/live/1286346377479541717.flv
+#EXTINF:-1 tvg-name="U17世界杯-丹麦U17VS阿根廷U17 11-25 23:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png" group-title="未开赛",U17世界杯-丹麦U17VS阿根廷U17 11-25 23:30:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4544854
+#EXTINF:-1 tvg-name="U17世界杯-澳大利亚U17VS莫桑比克U17 11-25 23:30:00[一鸣]" tvg-logo="https://cdn.sportnanoapi.com/football/team/2d8fe42de2f833581faa077f788329fa.png" group-title="未开赛",U17世界杯-澳大利亚U17VS莫桑比克U17 11-25 23:30:00[一鸣]
+https://4d8c61fa-zbpull2.xunwn.com/live/1286381302367437499.flv
+#EXTINF:-1 tvg-name="U17世界杯-澳大利亚U17VS莫桑比克U17 11-25 23:30:00[动画]" tvg-logo="https://cdn.sportnanoapi.com/football/team/2d8fe42de2f833581faa077f788329fa.png" group-title="未开赛",U17世界杯-澳大利亚U17VS莫桑比克U17 11-25 23:30:00[动画]
+https://widgets-livetracker.nami.com/zh/football?profile=g5wv7un4dtkipwz&id=4544917
 #EXTINF:-1 tvg-name="更新缓存" tvg-logo="" group-title="更新缓存",更新缓存
 http://iptv.cqshushu.com/jzb25.php?type=m3u&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5&refresh=1
 #EXTINF:-1 tvg-name="Token过期" tvg-logo="" group-title="更新缓存",过期时间:2026-12-09 00:41:16
 https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
-#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]蒙扎 VS 佛罗伦萨03:45[国内线路 M④]
-video://http://play.sportsteam368.com/play/mgxl/?id=00584785&id2=
-#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]蒙扎 VS 佛罗伦萨03:45[国内线路⑤]
-video://http://play.sportsteam368.com/play/wlive/?id=7bc6360e3a553dd1144597a1d435a902&id2=
-#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]蒙扎 VS 佛罗伦萨03:45[HD | Paramount ]
-video://https://taifood-blog.asia/embed/seriea/2026-11-23/mon-fio
-#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]蒙扎 VS 佛罗伦萨03:45[SD | Paramount ]
-video://https://taifood-blog.asia/embed/seriea/2026-11-23/mon-fio_540p
-#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]布伦特福德 VS 埃弗顿04:00[国内线路 M⑤]
-video://http://play.sportsteam368.com/play/mgxl/?id=00584180&id2=
-#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]布伦特福德 VS 埃弗顿04:00[国内线路⑥]
-video://http://play.sportsteam368.com/play/wlive/?id=f97d4facba7ac22ebd5d4f7fd8dcf25d&id2=
-#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]布伦特福德 VS 埃弗顿04:00[HD | Sky Sport 8]
-video://https://taifood-blog.asia/embed/pl/2026-11-23/bre-eve
-#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]布伦特福德 VS 埃弗顿04:00[SD | Sky Sport 8]
-video://https://taifood-blog.asia/embed/pl/2026-11-23/bre-eve_540p
-#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]莱万特 VS 埃尔切04:00[国内线路 M⑤]
-video://http://play.sportsteam368.com/play/mgxl/?id=00586121&id2=
-#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]莱万特 VS 埃尔切04:00[国内线路⑥]
-video://http://play.sportsteam368.com/play/wlive/?id=d6bcc479f691a2edd7f14f34db0af717&id2=
-#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]莱万特 VS 埃尔切04:00[HD | ESPN ]
-video://https://taifood-blog.asia/embed/laliga/2026-11-23/lev-elc
-#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]莱万特 VS 埃尔切04:00[SD | ESPN ]
-video://https://taifood-blog.asia/embed/laliga/2026-11-23/lev-elc_540p
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [NCAA]密西西比大学 VS 克莱姆森大学03:30[线路Q1]
-https://hello.ooo0ooo.top/live/3952524.m3u8
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]蒙扎 VS 佛罗伦萨03:45[国内线路⑥]
-http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fwen%2F%3Fid%3Db928b2c6925cfc0e22328c2c3ac7cbf6%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]蒙扎 VS 佛罗伦萨03:45[国内线路⑦]
-http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D45491301%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]蒙扎 VS 佛罗伦萨03:45[线路Q2]
-https://hello.ooo0ooo.top/live/4549130.m3u8
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]蒙扎 VS 佛罗伦萨03:45[线路C5]
-https://play.aarray.cn/rrty/hd-zh-1-4549130_gqzm.m3u8?auth_key=1795466400-0-0-3dbe039036b2c8ec6f9520686f45c101
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]蒙扎 VS 佛罗伦萨03:45[线路A1]
-https://www.rtmpcdn.com/live/f9e42a170d1694e9fc579cbeecba3ed7f716d3ee6b4b59019cba9a5d0ad2d3a4.m3u8
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]蒙扎 VS 佛罗伦萨03:45[原声直播1]
-https://www.rtmpcdn.com/live/fad77820574a8f892337b3ce187228e871c4f13d362428e05b92ab97d848ffcc.m3u8
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]蒙扎 VS 佛罗伦萨03:45[线路Q1]
-https://live01-cn-ali.xqnbu.com/live/17098281_tsc.m3u8
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]蒙扎 VS 佛罗伦萨03:45[线路C4]
-https://spl.tiyucdn.com/matchlive/ls2057499_30fps.m3u8
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]布伦特福德 VS 埃弗顿04:00[线路C4]
+#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]费耶诺德 VS 波尔图04:00[国内线路④]
+video://http://play.sportsteam368.com/play/wlive/?id=0e478dc80710f48596b0938b3fdd7a34&id2=
+#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]曼城 VS 那不勒斯04:00[国内线路④]
+video://http://play.sportsteam368.com/play/wlive/?id=e51652cc7356ebad904bd863a7730023&id2=
+#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]曼城 VS 那不勒斯04:00[国内线路⑤]
+video://http://play.sportsteam368.com/play/wlive/?id=d8401b9282fbbda6179dacd0c21b0ff1&id2=
+#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]曼城 VS 那不勒斯04:00[HD | Paramount ]
+video://https://taifood-blog.asia/embed/ucl/2026-11-24/mci-nap
+#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]曼城 VS 那不勒斯04:00[SD | Paramount ]
+video://https://taifood-blog.asia/embed/ucl/2026-11-24/mci-nap_540p
+#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]RB莱比锡 VS 朗斯04:00[国内线路④]
+video://http://play.sportsteam368.com/play/wlive/?id=3d15af073d4e35f729ceae014c784f60&id2=
+#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]RB莱比锡 VS 朗斯04:00[HD | Paramount ]
+video://https://taifood-blog.asia/embed/ucl/2026-11-24/rbl-rcl
+#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]RB莱比锡 VS 朗斯04:00[SD | Paramount ]
+video://https://taifood-blog.asia/embed/ucl/2026-11-24/rbl-rcl_540p
+#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]皇马 VS 埃因霍温04:00[国内线路⑤]
+video://http://play.sportsteam368.com/play/wlive/?id=9bdd05274eb9f77aa3a17ec29d78bf6c&id2=
+#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]皇马 VS 埃因霍温04:00[国内线路⑥]
+video://http://play.sportsteam368.com/play/wlive/?id=1bf2b8d9f1570c3a518c5ff14886b703&id2=
+#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]布拉迪斯拉发 VS 皇家贝蒂斯04:00[国内线路⑤]
+video://http://play.sportsteam368.com/play/wlive/?id=c087440f71b68908af89d930ad9561e8&id2=
+#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]阿森纳 VS 多特蒙德04:00[国内线路⑤]
+video://http://play.sportsteam368.com/play/wlive/?id=6ffb12c0fdafe1e426fc045fcda6002d&id2=
+#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]阿森纳 VS 多特蒙德04:00[国内线路⑥]
+video://http://play.sportsteam368.com/play/wlive/?id=5f17fed4e9a297013fbd001449e3aeef&id2=
+#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]阿森纳 VS 多特蒙德04:00[HD | Paramount ]
+video://https://taifood-blog.asia/embed/ucl/2026-11-24/ars-dor
+#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]阿森纳 VS 多特蒙德04:00[SD | Paramount ]
+video://https://taifood-blog.asia/embed/ucl/2026-11-24/ars-dor_540p
+#EXTINF:-1 group-title="WEB(X5内核)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]科莫 VS 雅典AEK04:00[国内线路④]
+video://http://play.sportsteam368.com/play/wlive/?id=323944f0a5bdad4533f70186b5248331&id2=
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]布里斯托城 VS 雷克瑟姆03:45[国内线路①]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fwen%2F%3Fid%3D95a041548bda3c9cfc91a1c5f4799866%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]布里斯托城 VS 雷克瑟姆03:45[国内线路②]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D45637011%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]布里斯托城 VS 雷克瑟姆03:45[线路Q1]
+https://hello.ooo0ooo.top/live/4563701.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]布里斯托城 VS 雷克瑟姆03:45[线路C4]
+https://play.aarray.cn/rrty/sd-1-4563701_gqzm.m3u8?auth_key=1795552811-0-0-1e1ed54dfb4d47e81ace6c0a13c13f69
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]布里斯托城 VS 雷克瑟姆03:45[线路A1]
+https://www.rtmpcdn.com/live/72686d3a3f00931190f0fac449280663d1b12184a8bb6c3a0afd5dd402d1f3d5.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]布里斯托城 VS 雷克瑟姆03:45[原声直播1]
+https://www.rtmpcdn.com/live/6e5879ab5c44457622059ed0cdcf34cd853e1fb88e8a212886c38852be6a7924.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]查尔顿 VS 林肯城03:45[国内线路①]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fwen%2F%3Fid%3D9db0b18f426cd64c6e4332cda6989251%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]查尔顿 VS 林肯城03:45[国内线路②]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D45636961%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]查尔顿 VS 林肯城03:45[线路Q1]
+https://hello.ooo0ooo.top/live/4563696.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]查尔顿 VS 林肯城03:45[线路C4]
+https://play.aarray.cn/rrty/sd-1-4563696_gqzm.m3u8?auth_key=1795552821-0-0-135dd72288601aaa3c4b3afa9428a2b9
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]查尔顿 VS 林肯城03:45[线路A1]
+https://www.rtmpcdn.com/live/28a4d0d4267442e2d0c865449eed68494209cb7045cafb8cf39cf72886842a01.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]查尔顿 VS 林肯城03:45[原声直播1]
+https://www.rtmpcdn.com/live/31efc9517df90a821b0fdcd508979ffa5ece5510d4f4dd3375e8d2fc3a8e482b.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]朴茨茅斯 VS 西汉姆联03:45[国内线路①]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fwen%2F%3Fid%3D056517a828a15744bf2a4e179e6883e9%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]朴茨茅斯 VS 西汉姆联03:45[国内线路②]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D45636981%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]朴茨茅斯 VS 西汉姆联03:45[线路Q1]
+https://hello.ooo0ooo.top/live/4563698.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]朴茨茅斯 VS 西汉姆联03:45[线路A1]
+https://www.rtmpcdn.com/live/6c8e36b5bb95f44305cf820ed091034c48c436219952127d4700beb52d58ba17.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]朴茨茅斯 VS 西汉姆联03:45[原声直播1]
+https://www.rtmpcdn.com/live/f2500ec3f10a21c708a35adc890596d09a69a916aa72c43024bc6da4d7c10aad.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]朴茨茅斯 VS 西汉姆联03:45[线路C4]
+https://play.aarray.cn/rrty/sd-1-4563698_gqzm.m3u8?auth_key=1795553843-0-0-b0886a62a1ab7dc2f1b1862ec9340a1a
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]诺维奇 VS 女王公园巡游者03:45[国内线路①]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fwen%2F%3Fid%3D1f1d16587706464f82eff5cf72e6998d%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]诺维奇 VS 女王公园巡游者03:45[国内线路②]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D45636971%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]诺维奇 VS 女王公园巡游者03:45[线路Q1]
+https://hello.ooo0ooo.top/live/4563697.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]诺维奇 VS 女王公园巡游者03:45[线路A1]
+https://www.rtmpcdn.com/live/60e1acec07faaa94e900c6050cf162f9f0f1f8a2109d202bbf887867fe1b7a48.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]诺维奇 VS 女王公园巡游者03:45[原声直播1]
+https://www.rtmpcdn.com/live/0fd65f89170d67e6f43563d02bc7a4da69fad30079c097e3c40526fcd90f78ae.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]诺维奇 VS 女王公园巡游者03:45[线路C4]
+https://play.aarray.cn/rrty/sd-1-4563697_gqzm.m3u8?auth_key=1795553653-0-0-1afa8952c00221ad5f7e3b46e9facaa4
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]卡迪夫城 VS 普雷斯顿03:45[国内线路①]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fwen%2F%3Fid%3D91373dec98481fc70fac34fd517153a3%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]卡迪夫城 VS 普雷斯顿03:45[国内线路②]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D45637021%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]卡迪夫城 VS 普雷斯顿03:45[线路Q1]
+https://hello.ooo0ooo.top/live/4563702.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]卡迪夫城 VS 普雷斯顿03:45[线路C4]
+https://play.aarray.cn/rrty/sd-1-4563702_gqzm.m3u8?auth_key=1795552821-0-0-640a40abc7d4d8f18b1911488469774a
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]卡迪夫城 VS 普雷斯顿03:45[线路A1]
+https://www.rtmpcdn.com/live/fb3154a7a19a9f3c0da28eeaf61256b1b087e75393726ea774875e28d6eeff5c.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]卡迪夫城 VS 普雷斯顿03:45[原声直播1]
+https://www.rtmpcdn.com/live/1cc602b61c309652f603cdc76ccca6b160da61db462f9ef1e13cecbf7e6822f5.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]米德尔斯堡 VS 斯旺西03:45[国内线路①]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fwen%2F%3Fid%3Df911dafef4eab3740aa506ed80b05b63%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]米德尔斯堡 VS 斯旺西03:45[国内线路②]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D45637031%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]米德尔斯堡 VS 斯旺西03:45[线路Q1]
+https://hello.ooo0ooo.top/live/4563703.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]米德尔斯堡 VS 斯旺西03:45[线路C4]
+https://play.aarray.cn/rrty/sd-1-4563703_gqzm.m3u8?auth_key=1795552771-0-0-5167240218fb70a611cb7aac9cdb35ed
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]米德尔斯堡 VS 斯旺西03:45[线路A1]
+https://www.rtmpcdn.com/live/11cfcc5647564778b06c1182e45322ea76d54561a0a3f80d768e5f5360365965.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]米德尔斯堡 VS 斯旺西03:45[原声直播1]
+https://www.rtmpcdn.com/live/136520c0a49ebbc5f49f1ad88c92e0d5881a105efbc28be171ec7b9eb1918918.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]谢菲尔德 VS 南安普顿03:45[国内线路①]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fwen%2F%3Fid%3D5567311c585926b7a675d54c97a1ff28%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]谢菲尔德 VS 南安普顿03:45[国内线路②]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D45636991%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]谢菲尔德 VS 南安普顿03:45[线路Q1]
+https://hello.ooo0ooo.top/live/4563699.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]谢菲尔德 VS 南安普顿03:45[线路A1]
+https://www.rtmpcdn.com/live/3c2e5a6b827c1f26ee64c0183e63c205670061125dc84746480aea317322c3d1.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]谢菲尔德 VS 南安普顿03:45[原声直播1]
+https://www.rtmpcdn.com/live/0cf4476948c7efffc4f88043ce8c02eddac444bb35023fedeb50ec07323cbfd2.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]谢菲尔德 VS 南安普顿03:45[线路C4]
+https://play.aarray.cn/rrty/sd-1-4563699_gqzm.m3u8?auth_key=1795553703-0-0-d3b4862bf85aa988c581b2fe27cb553a
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]费耶诺德 VS 波尔图04:00[国内线路⑤]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fwen%2F%3Fid%3D3a8471f298212b0119c506620d03524c%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]费耶诺德 VS 波尔图04:00[国内线路⑥]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D46284291%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]费耶诺德 VS 波尔图04:00[线路Q1]
+https://hello.ooo0ooo.top/live/4628429.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]费耶诺德 VS 波尔图04:00[线路C4]
+https://spqncdnct.inter.71edge.com/tslive/l1/c66_ssports_20261125_hrrcywh3_720p_chst1_ts_t4/ChgL0ap6ZIbb-c80Vr3uQJ3W6FftS0nfGP9P0Ir2_T5C_mlqFS36rVuhnjSO6gKvskY7DhjyU7RWlIhwvM1zCFfw0R677Ep_IUM1BEkYB4P7NAky3rLojyLEcC4osKalsqGMeIasB5nnEJhdGjtbo5KlY3ptdm94HCp4YTlMBUxhev2afLDRHL2YDjxyfK1woCVmU69fR-0YGhCcw6wIjf-cG6z2jrWVvTOxy5yTRAY/131eac1c5795b7928ad1517fcdb81eb53/c66_ssports_20261125_hrrcywh3_720p_chst1_ts_t4.m3u8?key=098581b4997fcc258bc9542f1bcf9eddd
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]费耶诺德 VS 波尔图04:00[线路C5]
+https://play.aarray.cn/rrty/hd-zh-1-4628429_gqzm.m3u8?auth_key=1795553923-0-0-68d8ff5fe3c376cf2feaa4ac953702c6
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]费耶诺德 VS 波尔图04:00[线路A1]
+https://www.rtmpcdn.com/live/8bea8ce04ce307aa5f9c82baf2372924c54dba861b9185b0300010ffcdcac4d8.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]费耶诺德 VS 波尔图04:00[原声直播1]
+https://www.rtmpcdn.com/live/9bd165917c8ad419e0ee05c538a1519e69c23b6fb48a2455734c1684ad5a1816.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]曼城 VS 那不勒斯04:00[爱奇艺超清2]
+https://www.rtmpcdn.com/live/iqiyi2.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]曼城 VS 那不勒斯04:00[国内线路⑥]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fwen%2F%3Fid%3Dc44b3548747ed26226231fa1a7e7fdda%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]曼城 VS 那不勒斯04:00[国内线路⑦]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D46284581%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]曼城 VS 那不勒斯04:00[线路Q1]
+https://hello.ooo0ooo.top/live/4628458.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]曼城 VS 那不勒斯04:00[线路A1]
+https://www.rtmpcdn.com/live/555656ccfa8b8123067da6d2fd6f59adfd75dd57945ad5cb2f18e60724dac1b1.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]曼城 VS 那不勒斯04:00[原声直播1]
+https://www.rtmpcdn.com/live/1760a9dd4f560b0e525ec9c30ae283d4eb4150f53a4b666cccb13ef8aaf5f7b9.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]曼城 VS 那不勒斯04:00[线路C4]
+https://spl.tiyucdn.com/matchlive/ls2272631_30fps.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]曼城 VS 那不勒斯04:00[线路C5]
+https://live3.hztx2020.com/live/14388197_107f7e60ffcd7cb4d525d2a6cb92fac4.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]曼城 VS 那不勒斯04:00[线路C6]
+https://play.aarray.cn/rrty/hd-zh-1-4628458_gqzm.m3u8?auth_key=1795554146-0-0-f9560623da6f57107f9e4971c7228363
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]曼城 VS 那不勒斯04:00[线路Q2]
+https://play.aarray.cn/rrty/hd-zh-1-4628458_gqzm.m3u8?auth_key=1795553573-0-0-41140d85c1fe88c83af9097fce42ebc9
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]RB莱比锡 VS 朗斯04:00[国内线路⑤]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fwen%2F%3Fid%3Dca9319d6fb210c5f9aa64211a8cbb184%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]RB莱比锡 VS 朗斯04:00[国内线路⑥]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D46284791%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]RB莱比锡 VS 朗斯04:00[线路Q1]
+https://hello.ooo0ooo.top/live/4628479.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]RB莱比锡 VS 朗斯04:00[线路C4]
+https://spbdcdncnc.inter.71edge.com/tslive/l1/c61_ssports_20261125_e33e25h2_720p_chst1_ts_t4/8uiVkGBUiDUPxAtTcmyxV8DlPiTrr10U-5uLyimKAjOC22EEB2zty6JnjLPOz78lWREJAIyGQheYF9GR12yj1uDRVGEe2KRe8wYhG8dDaliNPviE-qZpxXA8DPRlT_NoS2XultK7-yrlLtKNBhNa8lGvCdwwyrY3JS2FJ1GxHQHCm-f767bAfx0ZGTSUM22fEe0lulov1dM4mWlgvRS0YVY5Z9Khuj9jyT51hpqPmJ8/1811c5e54c9467e95f753af365989b033/c61_ssports_20261125_e33e25h2_720p_chst1_ts_t4.m3u8?key=051054fb91e7b3573133fef68cb5faa90
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]RB莱比锡 VS 朗斯04:00[线路C5]
+https://play.aarray.cn/rrty/hd-zh-1-4628479_gqzm.m3u8?auth_key=1795553893-0-0-df0c92a03542093f7bb04b6aac80ac94
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]RB莱比锡 VS 朗斯04:00[线路A1]
+https://www.rtmpcdn.com/live/42c7e58a903dcad719fc98cd2d665823987c449ad30b4bd2f9db2848ea45fa00.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]RB莱比锡 VS 朗斯04:00[原声直播1]
+https://www.rtmpcdn.com/live/8ea625ad00967b8b9a86948cbae4a1cd9da1405ffbe5fb2e6c06492538a04341.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]皇马 VS 埃因霍温04:00[国内线路⑦]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fwen%2F%3Fid%3D26d1391281c7ff0326797e713800b133%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]皇马 VS 埃因霍温04:00[国内线路⑧]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D46284811%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]皇马 VS 埃因霍温04:00[线路Q1]
+https://hello.ooo0ooo.top/live/4628481.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]皇马 VS 埃因霍温04:00[线路C4]
+https://spl.tiyucdn.com/matchlive/ls2272602_30fps.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]皇马 VS 埃因霍温04:00[线路C5]
+https://live2.hztx2020.com/live/14388198_dbb6f133da952e42a218ec3453bc17a9.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]皇马 VS 埃因霍温04:00[线路C6]
+https://play.aarray.cn/rrty/hd-en-1-4628481_gqzm.m3u8?auth_key=1795554881-0-0-99871e8975532c8f94c63e41c8d08df4
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]皇马 VS 埃因霍温04:00[线路Q2]
+https://play.aarray.cn/rrty/hd-en-1-4628481_gqzm.m3u8?auth_key=1795555222-0-0-0c8240072bb3b3e38a6bdeab849978dd
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]皇马 VS 埃因霍温04:00[线路A1]
+https://www.rtmpcdn.com/live/685420213fba3a6d8e91e92d44ced25b544a6c74c6adb47c9538f6a388bdcb9b.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]皇马 VS 埃因霍温04:00[线路A2]
+https://www.rtmpcdn.com/live/ca4c08a8a87dcee0d6b6d547002ad3ac3ea5a82a28d8def9d723e2d49deafc9e.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]皇马 VS 埃因霍温04:00[原声直播1]
+https://www.rtmpcdn.com/live/9f4d4271d932cb3563d285dce483ceebee5df26a685abe1b7d47caea9a631fbf.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]皇马 VS 埃因霍温04:00[原声直播2]
+https://www.rtmpcdn.com/live/0b7eb2f2c2dccabbf251d7824898f251d42adda183ba1026f0d0dbff06454583.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]布拉迪斯拉发 VS 皇家贝蒂斯04:00[国内线路⑥]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fwen%2F%3Fid%3Dcd768e9d9e9cf5b976d139fd48d5fbd8%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]布拉迪斯拉发 VS 皇家贝蒂斯04:00[国内线路⑦]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D46285041%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]布拉迪斯拉发 VS 皇家贝蒂斯04:00[线路Q1]
+https://hello.ooo0ooo.top/live/4628504.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]布拉迪斯拉发 VS 皇家贝蒂斯04:00[线路C4]
+https://sphscdnct.inter.71edge.com/tslive/l1/c70_ssports_20261125_vatfzrfd_720p_chst1_ts_t4/NZUey2BIcPCu7nSfKeIixAEcRPEx0hnkTclYvfCO1QhcBqEZ8I5B0Xm22iKFUI44Ez2qMFlVVG7lJ-hpy7I5xNcRRE65XfETvovG6bD5xjxwwKCPxWz6SSC0Ha7UyTkntVHHAPFN8UySy-qn45834U7JMwI8nUqmUieAjtmP8Gn0ViGQlmu-3xunErCsUDwzD-S7FgEsLSoQgrEsOY_lyT2mcl7YhZhQM-7zAG3fN9s/13f04b5c00ec1f5bce10641336230fa38/c70_ssports_20261125_vatfzrfd_720p_chst1_ts_t4.m3u8?key=0af5d17bd96b8fdc67b1600d56cd7c13b
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]布拉迪斯拉发 VS 皇家贝蒂斯04:00[线路C5]
+https://play.aarray.cn/rrty/hd-zh-1-4628504_gqzm.m3u8?auth_key=1795553903-0-0-03d6efc242dc5f20d1063eed49e61a3a
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]布拉迪斯拉发 VS 皇家贝蒂斯04:00[线路A1]
+https://www.rtmpcdn.com/live/5cab98536bae415dca97a2783d28f009d5f8067bd58283c2e5ada69d33089a02.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]布拉迪斯拉发 VS 皇家贝蒂斯04:00[原声直播1]
+https://www.rtmpcdn.com/live/93b760bbf608e87be100a235757a3e162d033534280a74dc8472b2b6dbf1a33e.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]阿森纳 VS 多特蒙德04:00[爱奇艺超清1]
+https://www.rtmpcdn.com/live/iqiyi1.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]阿森纳 VS 多特蒙德04:00[国内线路⑦]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fwen%2F%3Fid%3D12dfac1cc408d9d549f3f249222d13db%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]阿森纳 VS 多特蒙德04:00[国内线路⑧]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D46283601%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]阿森纳 VS 多特蒙德04:00[线路Q1]
+https://hello.ooo0ooo.top/live/4628360.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]阿森纳 VS 多特蒙德04:00[原声直播1]
+https://www.rtmpcdn.com/live/b9ba53afa7a96e1111f686e94f8a24dd2c6fccc7db6505918c1992c625342c40.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]阿森纳 VS 多特蒙德04:00[线路A1]
+https://www.rtmpcdn.com/live/c167d6068e9199a78636b11eea20b6156f008efa994a7e5f43ac77451b627847.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]阿森纳 VS 多特蒙德04:00[线路C4]
+https://spl.tiyucdn.com/matchlive/ls2272620_30fps.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]阿森纳 VS 多特蒙德04:00[线路C5]
+https://live5.hztx2020.com/live/14388194_18eeff0ba1e070ea1e280a45c85a4218.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]阿森纳 VS 多特蒙德04:00[线路C6]
+https://play.aarray.cn/rrty/hd-zh-1-4628360_gqzm.m3u8?auth_key=1795553994-0-0-14e0ad096f4ad6b5298664b0f7dca45d
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]阿森纳 VS 多特蒙德04:00[线路Q2]
+https://play.aarray.cn/rrty/hd-zh-1-4628360_gqzm.m3u8?auth_key=1795555122-0-0-28c883ce451fc46317019b9810a4f7bc
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]科莫 VS 雅典AEK04:00[国内线路⑤]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fwen%2F%3Fid%3D66669e219d4b4906eec352ae64ebbfab%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]科莫 VS 雅典AEK04:00[国内线路⑥]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D46284151%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]科莫 VS 雅典AEK04:00[线路Q1]
+https://hello.ooo0ooo.top/live/4628415.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]科莫 VS 雅典AEK04:00[线路A1]
+https://www.rtmpcdn.com/live/19713c9e4c3741a8a7b0124501940f77d0a0e91e4f11e3d18cdd4f340942b68f.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠]科莫 VS 雅典AEK04:00[原声直播1]
+https://www.rtmpcdn.com/live/b9f06779ef67ee7a539b807db83ed83b2bea060e13895cce942452e34d5d69c3.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]狼队 VS 德比郡04:00[国内线路①]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fwen%2F%3Fid%3Daa9764f54a002e535af08d0f5d9d911d%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]狼队 VS 德比郡04:00[国内线路②]
+http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D45637001%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]狼队 VS 德比郡04:00[线路Q1]
+https://hello.ooo0ooo.top/live/4563700.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]狼队 VS 德比郡04:00[线路C4]
+https://play.aarray.cn/rrty/sd-1-4563700_gqzm.m3u8?auth_key=1795554246-0-0-dc181982fe51e9606e52e16ec820b102
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]狼队 VS 德比郡04:00[线路A1]
+https://www.rtmpcdn.com/live/8ec5743c68d98f3662ecc5cb4e59350b903392f2fe1d5b00ffb105332218ef40.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [英冠]狼队 VS 德比郡04:00[原声直播1]
+https://www.rtmpcdn.com/live/7316806610b484b8a2199a01ee23ef5ac958df9114c52679da52f966301e0750.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠杯]科莫 VS AEK雅典04:00[线路C4]
 https://spqncdnct.inter.71edge.com/tslive/l1/c65_ssports_20261117_qyciitzw_720p_chst1_ts_t4/eArmeDDyCiwXXcHVTBoPslLMBQbWmOULEG2OWijFLwz5CnBH0Y64YQF4UaQ1_McSQneXndGivPZKkAjAF_HWumHITLh9d5RAFhAl8x_TEaNFRrsQTfxmphWUJzZqOnM2dZGK3Ao7UOwVXxvEbEbBc-crM73JjKyuIjfZKC3UItKhGFBDbSy4W86hSGAWoN04BcMrGWPJn5SZYQBKTvJRTUkhdC0FCTKW0n-ju_Z2U2KqRngVa61ZEecAASWKUPwMmCNqgutY4E-ytpqlpk3ydA/1d1bd0452097361a8973fbef1fb78f05e/c65_ssports_20261117_qyciitzw_720p_chst1_ts_t4.m3u8?key=0b75c099e55882f45f66dda4930253c6b
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]布伦特福德 VS 埃弗顿04:00[国内线路⑦]
-http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fwen%2F%3Fid%3D82198d84fb272ae6bea48aaf9828a09e%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]布伦特福德 VS 埃弗顿04:00[国内线路⑧]
-http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D45584681%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]布伦特福德 VS 埃弗顿04:00[线路Q2]
-https://hello.ooo0ooo.top/live/4558468.m3u8
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]布伦特福德 VS 埃弗顿04:00[线路Q1]
-https://live01-cn-ali.xqnbu.com/live/91332525_tsc.m3u8
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]布伦特福德 VS 埃弗顿04:00[线路C5]
-https://play.aarray.cn/rrty/hd-zh-1-4558468_gqzm.m3u8?auth_key=1795467223-0-0-fe334a850c987e7de32db23693ffe5ce
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]布伦特福德 VS 埃弗顿04:00[线路A1]
-https://www.rtmpcdn.com/live/dba5e21e21913125b2c48d87841942f6f6b2f3f7ab7536d8982301e14f0a987e.m3u8
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]布伦特福德 VS 埃弗顿04:00[原声直播1]
-https://www.rtmpcdn.com/live/4726705da118dab576699e67377e50e6ae3b2aa74a6c24380d5d1f4a900c436a.m3u8
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]莱万特 VS 埃尔切04:00[国内线路⑦]
-http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fwen%2F%3Fid%3Dfb47cf0d24ab5093be471ef3ff5b047f%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]莱万特 VS 埃尔切04:00[国内线路⑧]
-http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D45656091%26id2%3D&token=3ed7dd57fd7ee6ad8e6bef269d9cafc5
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]莱万特 VS 埃尔切04:00[线路Q2]
-https://hello.ooo0ooo.top/live/4565609.m3u8
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]莱万特 VS 埃尔切04:00[线路Q1]
-https://live01-cn-ali.xqnbu.com/live/40957116_tsc.m3u8
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]莱万特 VS 埃尔切04:00[线路C5]
-https://play.aarray.cn/rrty/hd-zh-1-4565609_gqzm.m3u8?auth_key=1795467294-0-0-5d945036d8c67315e205395fac64eb0f
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]莱万特 VS 埃尔切04:00[线路C4]
-https://spl.tiyucdn.com/matchlive/ls2075526_30fps.m3u8
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]莱万特 VS 埃尔切04:00[线路A1]
-https://www.rtmpcdn.com/live/df019c81cc14b84413841de25ab07e84f52d006cc3b37c021777caeef0e40d86.m3u8
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [足球综合]莱万特 VS 埃尔切04:00[原声直播1]
-https://www.rtmpcdn.com/live/87e6942f24b154890ec8b70d53b26da807280bcdc5cb388ff8d9ac269d9ceb66.m3u8
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [NCAA]中田纳西州立大学 VS 南伊利诺大学04:00[线路Q1]
-https://hello.ooo0ooo.top/live/3961473.m3u8
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [NCAA]威廉玛丽大学 VS 印第安纳大学波利斯分校04:30[线路Q1]
-https://hello.ooo0ooo.top/live/3952321.m3u8
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [NCAA]南犹他大学 VS 阿肯色州立04:30[线路Q1]
-https://hello.ooo0ooo.top/live/3953046.m3u8
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [NCAA]耶鲁大学 VS 贝尔蒙特大学05:00[线路Q1]
-https://hello.ooo0ooo.top/live/3951599.m3u8
-#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [NCAA]华盛顿大学 VS 杨百翰大学06:00[线路Q1]
-https://hello.ooo0ooo.top/live/3953931.m3u8
-#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-25 01:45 [欧冠联赛阶段 第5轮]加拉塔萨雷 VS 阿斯顿维拉
-https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
-#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-25 01:45 [欧冠联赛阶段 第5轮]博多格林特 VS 林茨
-https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
-#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-25 04:00 [欧冠联赛阶段 第5轮]费耶诺德 VS 波尔图
-https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
-#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-25 04:00 [欧冠联赛阶段 第5轮]曼城 VS 那不勒斯
-https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
-#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-25 04:00 [欧冠联赛阶段 第5轮]RB莱比锡 VS 朗斯
-https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
-#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-25 04:00 [欧冠联赛阶段 第5轮]皇马 VS 埃因霍温
-https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
-#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-25 04:00 [欧冠联赛阶段 第5轮]布拉迪斯拉发 VS 皇家贝蒂斯
-https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
-#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-25 04:00 [欧冠联赛阶段 第5轮]阿森纳 VS 多特蒙德
-https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
-#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-25 04:00 [欧冠联赛阶段 第5轮]科莫 VS 雅典AEK
-https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [欧冠杯]科莫 VS AEK雅典04:00[线路C5]
+https://play.aarray.cn/rrty/hd-zh-1-4628415_gqzm.m3u8?auth_key=1795553413-0-0-0356ba5e2faba42c37908eb8e6de4246
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [NCAA]田纳西大学 VS 马里兰大学04:00[线路Q1]
+https://hello.ooo0ooo.top/live/3952140.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [NCAA]德克萨斯基督教大学 VS 迈阿密大学04:00[线路Q1]
+https://hello.ooo0ooo.top/live/3951716.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [NCAA]耶鲁大学 VS 阿帕拉契亚州立大学04:00[线路Q1]
+https://hello.ooo0ooo.top/live/3951598.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [NCAA]阿肯色州立 VS 加州州立大学长滩分校04:30[线路Q1]
+https://hello.ooo0ooo.top/live/3952659.m3u8
+#EXTINF:-1 group-title="WEB(直连)" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", [NCAA]海军官校 VS 宾州州立大学利伯克郡分校05:30[线路Q1]
+https://hello.ooo0ooo.top/live/3956786.m3u8
 #EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-26 01:45 [欧冠联赛阶段 第5轮]沙巴巴库 VS 巴塞罗那
 https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
 #EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-26 01:45 [欧冠联赛阶段 第5轮]布拉格斯拉维亚 VS 比利亚雷亚尔
@@ -800,12 +936,6 @@ https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplay
 #EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-27 04:00 [欧联联赛阶段 第5轮]里昂 VS 利勒斯特罗姆
 https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
 #EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-27 04:00 [欧联联赛阶段 第5轮]奈梅亨 VS 雷恩
-https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
-#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-27 04:00 [欧联联赛阶段 第5轮]OFI克里特 VS 安德莱赫特
-https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
-#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-27 04:00 [欧协联联赛阶段 第4轮]艾斯卡迪斯国际 VS 哥本哈根
-https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
-#EXTINF:-1 group-title="未开赛" tvg-logo="https://www.88kanqiu.net/static/img/default.png?t=1792651338", 2026-11-27 04:00 [欧协联联赛阶段 第4轮]北西兰 VS 帕纳辛奈科斯
 https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/mp4/xgplayer-demo-720p.mp4
 #EXTINF:-1 group-title="公众号" tvg-logo="http://iptv.cqshushu.com/wx.png", 关注【医工学习日志】获取更多
 http://iptv.cqshushu.com/wx.mp4
